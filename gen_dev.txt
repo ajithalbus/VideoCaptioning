@@ -1,0 +1,100 @@
+beam_size_5	vid1200	a woman is talking
+beam_size_5	vid1201	someone is attacked a rabbit
+beam_size_5	vid1202	a man cooking his kichen
+beam_size_5	vid1203	a baby is playing
+beam_size_5	vid1204	a person is cooking
+beam_size_5	vid1205	a girl is playing a guitar
+beam_size_5	vid1206	two men are fighting
+beam_size_5	vid1207	a man is singing
+beam_size_5	vid1208	a woman is riding a horse
+beam_size_5	vid1209	a man is riding a skateboard
+beam_size_5	vid1210	a man is dancing
+beam_size_5	vid1211	two boys are fighting
+beam_size_5	vid1212	a man is playing a guitar
+beam_size_5	vid1213	a man is shooting a gun
+beam_size_5	vid1214	a woman is riding a mechanical bull
+beam_size_5	vid1215	a man cooking his kichen
+beam_size_5	vid1216	a boy is playing
+beam_size_5	vid1217	a man is playing a guitar
+beam_size_5	vid1218	a girl is singing
+beam_size_5	vid1219	the person is cooking the something
+beam_size_5	vid1220	two men are fighting
+beam_size_5	vid1221	a man is cutting meat
+beam_size_5	vid1222	a man is dancing
+beam_size_5	vid1223	a panda is playing
+beam_size_5	vid1224	the person is doing the something
+beam_size_5	vid1225	a man is walking
+beam_size_5	vid1226	a man is talking
+beam_size_5	vid1227	a girl is falling down
+beam_size_5	vid1228	a woman is putting on a phone
+beam_size_5	vid1229	the person is doing the something
+beam_size_5	vid1230	a man cooking his kichen
+beam_size_5	vid1231	a man is dancing
+beam_size_5	vid1232	a man is dancing
+beam_size_5	vid1233	a man is using a nunchuck
+beam_size_5	vid1234	the animal is playing
+beam_size_5	vid1235	two men are dancing
+beam_size_5	vid1236	the person is cooking the something
+beam_size_5	vid1237	a man cooking his kichen
+beam_size_5	vid1238	a woman is walking
+beam_size_5	vid1239	a man is slicing a potato
+beam_size_5	vid1240	the man is pouring sauce over the pasta
+beam_size_5	vid1241	a man is cutting a potato
+beam_size_5	vid1242	a woman is peeling a potato
+beam_size_5	vid1243	a man is talking
+beam_size_5	vid1244	a woman is opening a package
+beam_size_5	vid1245	a man cooking his kichen
+beam_size_5	vid1246	a man is cutting broccoli
+beam_size_5	vid1247	people are dancing
+beam_size_5	vid1248	the monkey is doing the something
+beam_size_5	vid1249	a man is interviewing a woman
+beam_size_5	vid1250	a man is cutting a piece of paper
+beam_size_5	vid1251	a man is playing a guitar
+beam_size_5	vid1252	a woman is slicing a potato
+beam_size_5	vid1253	the man is climing the cliff
+beam_size_5	vid1254	someone is mixing ingrediants
+beam_size_5	vid1255	a woman is riding a horse
+beam_size_5	vid1256	a rabbit is playing
+beam_size_5	vid1257	a man cooking his kichen
+beam_size_5	vid1258	a man is breaking a snake
+beam_size_5	vid1259	a group of men are dancing
+beam_size_5	vid1260	a woman is slicing a potato
+beam_size_5	vid1261	the lady cut up the green onion
+beam_size_5	vid1262	a man is driving a car
+beam_size_5	vid1263	a man is playing a guitar
+beam_size_5	vid1264	a man is playing a keyboard
+beam_size_5	vid1265	the boys are playing
+beam_size_5	vid1266	a cat is playing
+beam_size_5	vid1267	a dog is running
+beam_size_5	vid1268	two men are talking
+beam_size_5	vid1269	a man is doing pushups
+beam_size_5	vid1270	a dog is playing
+beam_size_5	vid1271	a woman is slicing a mushroom
+beam_size_5	vid1272	a woman is preparing some food
+beam_size_5	vid1273	a woman is rinsing off a container
+beam_size_5	vid1274	a woman is slicing a vegetable
+beam_size_5	vid1275	a man cooking his kichen
+beam_size_5	vid1276	a man is swimming
+beam_size_5	vid1277	a woman is feeding a man
+beam_size_5	vid1278	the person is cooking the something
+beam_size_5	vid1279	a man is eating
+beam_size_5	vid1280	a man is playing a guitar
+beam_size_5	vid1281	a woman is rowing a boat
+beam_size_5	vid1282	a man is lifting a car
+beam_size_5	vid1283	a man opens a can of chili
+beam_size_5	vid1284	a man is holding a helmet
+beam_size_5	vid1285	two men are fighting
+beam_size_5	vid1286	a girl is dancing
+beam_size_5	vid1287	a man is playing a guitar
+beam_size_5	vid1288	a man is playing a flute
+beam_size_5	vid1289	a man is slicing a cucumber
+beam_size_5	vid1290	a girl is dancing
+beam_size_5	vid1291	two men are fighting
+beam_size_5	vid1292	a man is lifting weights
+beam_size_5	vid1293	a girl is dancing
+beam_size_5	vid1294	a man is playing a guitar
+beam_size_5	vid1295	a woman is slicing a potato
+beam_size_5	vid1296	a man is carrying a man
+beam_size_5	vid1297	a woman is taking a bath
+beam_size_5	vid1298	a boy is running
+beam_size_5	vid1299	a man is feeding a wallaby

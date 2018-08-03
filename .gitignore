@@ -1,3 +1,5 @@
 *.npy
 *.pkl
 model/
+BestModel/
+caption-eval/
