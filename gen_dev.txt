@@ -1,100 +1,100 @@
-beam_size_5	vid1200	a a man is a
-beam_size_5	vid1201	a a man is a
-beam_size_5	vid1202	a man is a
-beam_size_5	vid1203	a a a man is a
-beam_size_5	vid1204	a a man is a
-beam_size_5	vid1205	a a man is a
-beam_size_5	vid1206	a a man is a
-beam_size_5	vid1207	a a man is a
-beam_size_5	vid1208	a a man is a a
-beam_size_5	vid1209	a a man is a
-beam_size_5	vid1210	a a man is a a
-beam_size_5	vid1211	a a man is a
-beam_size_5	vid1212	a man is a
-beam_size_5	vid1213	a a man is a
-beam_size_5	vid1214	a man is a
-beam_size_5	vid1215	a a man is a
-beam_size_5	vid1216	a a man is a a
-beam_size_5	vid1217	a man is a
-beam_size_5	vid1218	a man is a
-beam_size_5	vid1219	a a man is a
-beam_size_5	vid1220	a a man is a
-beam_size_5	vid1221	a a man is a
-beam_size_5	vid1222	a a man is a
-beam_size_5	vid1223	a a is is a
-beam_size_5	vid1224	a a man is a
-beam_size_5	vid1225	a a man is a
-beam_size_5	vid1226	a a man is a
-beam_size_5	vid1227	a a man is a
-beam_size_5	vid1228	a a man is a
-beam_size_5	vid1229	a a man is a
-beam_size_5	vid1230	a a man is a
-beam_size_5	vid1231	a a man is a
-beam_size_5	vid1232	a a man is a
-beam_size_5	vid1233	a a man is a
-beam_size_5	vid1234	a a man is a
-beam_size_5	vid1235	a a man is a
-beam_size_5	vid1236	a man is a
-beam_size_5	vid1237	a a man is a
-beam_size_5	vid1238	a a man is a a
-beam_size_5	vid1239	a a man is a
-beam_size_5	vid1240	a a man is a
-beam_size_5	vid1241	a a man is a
-beam_size_5	vid1242	a a man is a
-beam_size_5	vid1243	a a man is a
-beam_size_5	vid1244	a a man is a
-beam_size_5	vid1245	a man is a
-beam_size_5	vid1246	a a man is a
-beam_size_5	vid1247	a a man is a
-beam_size_5	vid1248	a a man is a
-beam_size_5	vid1249	a a man is a
-beam_size_5	vid1250	a a man is a
-beam_size_5	vid1251	a man is a
-beam_size_5	vid1252	a a man is a
-beam_size_5	vid1253	a man is a
-beam_size_5	vid1254	a a man is a
-beam_size_5	vid1255	a a man is a a
-beam_size_5	vid1256	a a a is is a
-beam_size_5	vid1257	a a man is a
-beam_size_5	vid1258	a a man is a
-beam_size_5	vid1259	a a man is a
-beam_size_5	vid1260	a a man is a
-beam_size_5	vid1261	a a man is a
-beam_size_5	vid1262	a a man is a
-beam_size_5	vid1263	a man is a
-beam_size_5	vid1264	a man is a a
-beam_size_5	vid1265	a a man is a a
-beam_size_5	vid1266	a a a man is a a
-beam_size_5	vid1267	a a man is a
-beam_size_5	vid1268	a man is a
-beam_size_5	vid1269	a man is a
-beam_size_5	vid1270	a a a man is a a
-beam_size_5	vid1271	a a man is a
-beam_size_5	vid1272	a a man is a
-beam_size_5	vid1273	a a man is a a
-beam_size_5	vid1274	a a man is a
-beam_size_5	vid1275	a a man is a
-beam_size_5	vid1276	a man is a
-beam_size_5	vid1277	a a man is a
-beam_size_5	vid1278	a a man is a
-beam_size_5	vid1279	a a man is a
-beam_size_5	vid1280	a man is a
-beam_size_5	vid1281	a a a man is a a
-beam_size_5	vid1282	a a man is a a
-beam_size_5	vid1283	a a a man is a
-beam_size_5	vid1284	a a man is a
-beam_size_5	vid1285	a a man is a
-beam_size_5	vid1286	a a man is a
-beam_size_5	vid1287	a man is a
-beam_size_5	vid1288	a a man is a
-beam_size_5	vid1289	a man is a
-beam_size_5	vid1290	a a man is a
-beam_size_5	vid1291	a a man is a
-beam_size_5	vid1292	a a man is a
-beam_size_5	vid1293	a a man is a
-beam_size_5	vid1294	a man is a
-beam_size_5	vid1295	a a man is a
-beam_size_5	vid1296	a a man is a a
-beam_size_5	vid1297	a a a is is
-beam_size_5	vid1298	a a man is a
-beam_size_5	vid1299	a a man is a
+beam_size_5	vid1200	a man is talking
+beam_size_5	vid1201	a cat is playing
+beam_size_5	vid1202	a man is cutting a meat
+beam_size_5	vid1203	a baby is playing
+beam_size_5	vid1204	a woman is cooking a pan
+beam_size_5	vid1205	a man is playing a guitar
+beam_size_5	vid1206	a man is running
+beam_size_5	vid1207	a man is playing a stage
+beam_size_5	vid1208	a woman is riding a horse
+beam_size_5	vid1209	a dog is playing
+beam_size_5	vid1210	a man is walking on a road
+beam_size_5	vid1211	two men are dancing
+beam_size_5	vid1212	a man is playing a guitar
+beam_size_5	vid1213	a woman is shooting a gun
+beam_size_5	vid1214	a man is eating
+beam_size_5	vid1215	a man is eating a food
+beam_size_5	vid1216	a man is playing
+beam_size_5	vid1217	a man is playing a guitar
+beam_size_5	vid1218	a woman is walking on a woman
+beam_size_5	vid1219	a man is cooking a pan
+beam_size_5	vid1220	a man is dancing
+beam_size_5	vid1221	a man is cutting a meat
+beam_size_5	vid1222	a monkey is dancing
+beam_size_5	vid1223	a panda is playing
+beam_size_5	vid1224	a man is doing a water
+beam_size_5	vid1225	a man is walking in a water
+beam_size_5	vid1226	a man is eating a pan
+beam_size_5	vid1227	a man is dancing
+beam_size_5	vid1228	a woman is putting a hair
+beam_size_5	vid1229	a man is doing a paper
+beam_size_5	vid1230	a woman is playing
+beam_size_5	vid1231	a man is running
+beam_size_5	vid1232	a girl is dancing
+beam_size_5	vid1233	a man is eating a meat
+beam_size_5	vid1234	a animal is playing
+beam_size_5	vid1235	two men are dancing
+beam_size_5	vid1236	a man is cooking a meat
+beam_size_5	vid1237	a woman is cutting a meat
+beam_size_5	vid1238	a woman is riding a horse
+beam_size_5	vid1239	a man is slicing a onion
+beam_size_5	vid1240	a man is cooking a bowl
+beam_size_5	vid1241	a girl is playing a guitar
+beam_size_5	vid1242	a woman is playing
+beam_size_5	vid1243	a man is eating a food
+beam_size_5	vid1244	a cat is eating a food
+beam_size_5	vid1245	a man is cutting a onion
+beam_size_5	vid1246	a woman is cutting a onion
+beam_size_5	vid1247	a woman is dancing
+beam_size_5	vid1248	a man is walking on a monkey
+beam_size_5	vid1249	a monkey is playing
+beam_size_5	vid1250	a girl is playing
+beam_size_5	vid1251	a man is playing a guitar
+beam_size_5	vid1252	a man is cutting a onion
+beam_size_5	vid1253	a man is walking on a road
+beam_size_5	vid1254	a person is eating a food
+beam_size_5	vid1255	a woman is riding a horse
+beam_size_5	vid1256	a animal is playing
+beam_size_5	vid1257	a man is cutting a onion
+beam_size_5	vid1258	a man is doing a water
+beam_size_5	vid1259	two men are dancing
+beam_size_5	vid1260	a woman is cutting a onion
+beam_size_5	vid1261	a woman is cutting a onion
+beam_size_5	vid1262	a man is walking on a road
+beam_size_5	vid1263	a man is playing a guitar
+beam_size_5	vid1264	a man is playing a piano
+beam_size_5	vid1265	a men are playing
+beam_size_5	vid1266	a cat is playing
+beam_size_5	vid1267	a dog is playing
+beam_size_5	vid1268	a man is walking
+beam_size_5	vid1269	a man is playing
+beam_size_5	vid1270	a dog is playing
+beam_size_5	vid1271	a woman is cutting a onion
+beam_size_5	vid1272	a woman is cutting a meat
+beam_size_5	vid1273	a man is playing a pizza
+beam_size_5	vid1274	a woman is cutting a onion
+beam_size_5	vid1275	a woman is cutting a meat
+beam_size_5	vid1276	a woman is cooking a water
+beam_size_5	vid1277	a woman is eating
+beam_size_5	vid1278	a man is cooking a pan
+beam_size_5	vid1279	a man is eating
+beam_size_5	vid1280	a man is playing a guitar
+beam_size_5	vid1281	a dog is playing
+beam_size_5	vid1282	a man is driving a car
+beam_size_5	vid1283	a man is cooking a water
+beam_size_5	vid1284	a man is playing
+beam_size_5	vid1285	a monkey is walking
+beam_size_5	vid1286	a girl is dancing
+beam_size_5	vid1287	a man is playing a guitar
+beam_size_5	vid1288	a man is playing a flute
+beam_size_5	vid1289	a man is eating a pizza
+beam_size_5	vid1290	a girl is dancing
+beam_size_5	vid1291	a man is doing a other
+beam_size_5	vid1292	a man is doing a road
+beam_size_5	vid1293	a man is dancing
+beam_size_5	vid1294	a man is playing a guitar
+beam_size_5	vid1295	a man is slicing a potato
+beam_size_5	vid1296	a baby is playing
+beam_size_5	vid1297	a woman is eating a water
+beam_size_5	vid1298	a boy is playing
+beam_size_5	vid1299	a man is eating
