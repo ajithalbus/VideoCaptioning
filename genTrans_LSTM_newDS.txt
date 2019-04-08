@@ -1,0 +1,670 @@
+beam_size_1	vid1301	a monkey is playing.
+beam_size_1	vid1302	a man is dancing.
+beam_size_1	vid1303	a cat is playing.
+beam_size_1	vid1304	a man is attacking a tree.
+beam_size_1	vid1305	a man is walking.
+beam_size_1	vid1306	the man is pouring the something.
+beam_size_1	vid1307	a girl is making her face.
+beam_size_1	vid1308	a man is exercising.
+beam_size_1	vid1309	a woman is exercising.
+beam_size_1	vid1310	a girl is applying makeup.
+beam_size_1	vid1311	a cat is playing.
+beam_size_1	vid1312	a man is dancing.
+beam_size_1	vid1313	a man is walking.
+beam_size_1	vid1314	a man is standing on the air.
+beam_size_1	vid1315	a man is driving a car.
+beam_size_1	vid1316	a man is playing.
+beam_size_1	vid1317	a woman is dancing.
+beam_size_1	vid1318	a man is playing.
+beam_size_1	vid1319	a man is running.
+beam_size_1	vid1320	a man is playing.
+beam_size_1	vid1321	a man is playing.
+beam_size_1	vid1322	a person is slicing a potato.
+beam_size_1	vid1323	a man is playing a guitar.
+beam_size_1	vid1324	a dog is playing.
+beam_size_1	vid1325	a man is driving a car.
+beam_size_1	vid1326	a man is driving a car.
+beam_size_1	vid1327	a dog is swimming.
+beam_size_1	vid1328	the person is cooking.
+beam_size_1	vid1329	a man is running.
+beam_size_1	vid1330	a man is talking.
+beam_size_1	vid1331	the person is playing.
+beam_size_1	vid1332	the kids are playing.
+beam_size_1	vid1333	a man is walking in a room.
+beam_size_1	vid1334	a man is cutting a vegetable.
+beam_size_1	vid1335	an elephant is playing.
+beam_size_1	vid1336	a polar bear is walking on the snow.
+beam_size_1	vid1337	a polar bear is walking.
+beam_size_1	vid1338	a man is playing a guitar.
+beam_size_1	vid1339	a person is playing.
+beam_size_1	vid1340	a cat is running.
+beam_size_1	vid1341	a man is shooting with gun.
+beam_size_1	vid1342	a man is slicing bread.
+beam_size_1	vid1343	a man is making meat.
+beam_size_1	vid1344	a person is cooking.
+beam_size_1	vid1345	a man is playing.
+beam_size_1	vid1346	a man is driving a car.
+beam_size_1	vid1347	a man is exercising.
+beam_size_1	vid1348	a person is drinking water.
+beam_size_1	vid1349	the person is cutting the something.
+beam_size_1	vid1350	a man cooking his kichen.
+beam_size_1	vid1351	people are playing.
+beam_size_1	vid1352	the animal is eating.
+beam_size_1	vid1353	a man is playing a guitar.
+beam_size_1	vid1354	a man is playing a guitar.
+beam_size_1	vid1355	a man is riding a horse.
+beam_size_1	vid1356	a man is playing.
+beam_size_1	vid1357	a car is driving a car.
+beam_size_1	vid1358	a man is hitting a ball.
+beam_size_1	vid1359	a dog is playing.
+beam_size_1	vid1360	a dog is playing.
+beam_size_1	vid1361	a person is cooking.
+beam_size_1	vid1362	a man is shooting a gun.
+beam_size_1	vid1363	a cat is playing.
+beam_size_1	vid1364	a man is running.
+beam_size_1	vid1365	people are dancing.
+beam_size_1	vid1366	the elephant is playing.
+beam_size_1	vid1367	a man is running.
+beam_size_1	vid1368	a man is walking.
+beam_size_1	vid1369	a cat is playing.
+beam_size_1	vid1370	a person is mixing a bowl.
+beam_size_1	vid1371	a man is playing.
+beam_size_1	vid1372	a man is running.
+beam_size_1	vid1373	a man is talking.
+beam_size_1	vid1374	a person is cooking.
+beam_size_1	vid1375	a person is cooking.
+beam_size_1	vid1376	the person is cooking.
+beam_size_1	vid1377	the person is cooking.
+beam_size_1	vid1378	a man is making pasta.
+beam_size_1	vid1379	the person is cooking.
+beam_size_1	vid1380	a man is eating spaghetti.
+beam_size_1	vid1381	a man is eating spaghetti.
+beam_size_1	vid1382	two men are dancing.
+beam_size_1	vid1383	a woman is holding a bag.
+beam_size_1	vid1384	the person is pouring the something.
+beam_size_1	vid1385	a boy is dancing.
+beam_size_1	vid1386	the boys are playing.
+beam_size_1	vid1387	two men are fighting.
+beam_size_1	vid1388	a man is playing.
+beam_size_1	vid1389	a baby is crying.
+beam_size_1	vid1390	a cat is playing.
+beam_size_1	vid1391	a woman is playing.
+beam_size_1	vid1392	the animal is eating.
+beam_size_1	vid1393	a man is running.
+beam_size_1	vid1394	a baby is playing.
+beam_size_1	vid1395	a man is playing a keyboard.
+beam_size_1	vid1396	a group of people are playing.
+beam_size_1	vid1397	a group of men are fighting.
+beam_size_1	vid1398	two men are fighting.
+beam_size_1	vid1399	a panda is climbing.
+beam_size_1	vid1400	a man is playing a guitar.
+beam_size_1	vid1401	a girl is riding a horse.
+beam_size_1	vid1402	a man is playing a keyboard.
+beam_size_1	vid1403	two people are fighting.
+beam_size_1	vid1404	a man is playing.
+beam_size_1	vid1405	a women is making a food.
+beam_size_1	vid1406	a man is playing.
+beam_size_1	vid1407	a cat is eating.
+beam_size_1	vid1408	a man is crying.
+beam_size_1	vid1409	a woman is talking.
+beam_size_1	vid1410	a woman is slicing a pineapple.
+beam_size_1	vid1411	a man is walking.
+beam_size_1	vid1412	a man is pulling a wall.
+beam_size_1	vid1413	a baby is playing.
+beam_size_1	vid1414	a cat is playing.
+beam_size_1	vid1415	a man is driving a car.
+beam_size_1	vid1416	a tiger is playing.
+beam_size_1	vid1417	a man is playing.
+beam_size_1	vid1418	a cat is walking.
+beam_size_1	vid1419	a man is walking.
+beam_size_1	vid1420	the person is slicing the something.
+beam_size_1	vid1421	a man cooking his kichen.
+beam_size_1	vid1422	a cat is playing.
+beam_size_1	vid1423	a woman is talking.
+beam_size_1	vid1424	a man is jumping.
+beam_size_1	vid1425	a man is running.
+beam_size_1	vid1426	a person is cooking.
+beam_size_1	vid1427	a man is walking.
+beam_size_1	vid1428	a girl is cooking.
+beam_size_1	vid1429	the person is cutting the something.
+beam_size_1	vid1430	a man is slicing a pepper.
+beam_size_1	vid1431	a man is cutting a potato.
+beam_size_1	vid1432	a panda is playing.
+beam_size_1	vid1433	a panda is playing.
+beam_size_1	vid1434	a girl is playing a piano.
+beam_size_1	vid1435	a baby is walking.
+beam_size_1	vid1436	a baby is walking.
+beam_size_1	vid1437	a man cooking his kichen.
+beam_size_1	vid1438	a cat is jumping.
+beam_size_1	vid1439	a man is playing a guitar.
+beam_size_1	vid1440	people are playing.
+beam_size_1	vid1441	a man is cutting a fish.
+beam_size_1	vid1442	the person is cooking the something.
+beam_size_1	vid1443	a man is standing in the rain.
+beam_size_1	vid1444	a man is holding a box.
+beam_size_1	vid1445	a person is cooking.
+beam_size_1	vid1446	an elephant is playing.
+beam_size_1	vid1447	people are dancing.
+beam_size_1	vid1448	a dog is playing.
+beam_size_1	vid1449	a woman is playing.
+beam_size_1	vid1450	a man is walking.
+beam_size_1	vid1451	the person is doing the something.
+beam_size_1	vid1452	two men are playing.
+beam_size_1	vid1453	people are playing.
+beam_size_1	vid1454	a man is walking.
+beam_size_1	vid1455	a boy is playing.
+beam_size_1	vid1456	a man is running.
+beam_size_1	vid1457	a man is climbing a mountain.
+beam_size_1	vid1458	a person is cooking.
+beam_size_1	vid1459	a man is preparing food.
+beam_size_1	vid1460	a man is playing a guitar.
+beam_size_1	vid1461	a baby is playing.
+beam_size_1	vid1462	a cat is playing.
+beam_size_1	vid1463	a man is riding a bike.
+beam_size_1	vid1464	a man is swimming.
+beam_size_1	vid1465	a man is playing a guitar.
+beam_size_1	vid1466	men are playing football.
+beam_size_1	vid1467	a man is shooting a gun.
+beam_size_1	vid1468	a man is cutting a vegetable.
+beam_size_1	vid1469	a man cooking his kichen.
+beam_size_1	vid1470	a man is cutting a potato.
+beam_size_1	vid1471	two men are playing.
+beam_size_1	vid1472	a person is slicing an onion.
+beam_size_1	vid1473	a baby is playing.
+beam_size_1	vid1474	a man is singing.
+beam_size_1	vid1475	the person is eating.
+beam_size_1	vid1476	a man is dancing.
+beam_size_1	vid1477	a man is driving a car.
+beam_size_1	vid1478	a woman is cutting something.
+beam_size_1	vid1479	a woman is talking.
+beam_size_1	vid1480	a woman cooking his kichen.
+beam_size_1	vid1481	a woman is cutting a vegetable.
+beam_size_1	vid1482	a man cooking his kichen.
+beam_size_1	vid1483	a woman is cutting a carrot.
+beam_size_1	vid1484	the person is cutting the something.
+beam_size_1	vid1485	a person is cooking.
+beam_size_1	vid1486	a woman is cooking.
+beam_size_1	vid1487	a person is cooking.
+beam_size_1	vid1488	a person is cooking.
+beam_size_1	vid1489	a woman is slicing a carrot.
+beam_size_1	vid1490	a woman is frying some food.
+beam_size_1	vid1491	a woman is cutting a carrot.
+beam_size_1	vid1492	a woman is cooking.
+beam_size_1	vid1493	the woman is slicing seaweed.
+beam_size_1	vid1494	a woman is slicing a vegetable.
+beam_size_1	vid1495	a woman is cutting a carrot.
+beam_size_1	vid1496	the person is cutting the something.
+beam_size_1	vid1497	the person is cooking.
+beam_size_1	vid1498	a woman is slicing a dish.
+beam_size_1	vid1499	a person is cooking.
+beam_size_1	vid1500	a woman is cooking.
+beam_size_1	vid1501	a man is talking.
+beam_size_1	vid1502	a man is playing a guitar.
+beam_size_1	vid1503	a woman is slicing a vegetable.
+beam_size_1	vid1504	a woman is cutting meat.
+beam_size_1	vid1505	the person is cooking.
+beam_size_1	vid1506	a person is cooking.
+beam_size_1	vid1507	a woman is cutting meat.
+beam_size_1	vid1508	a woman is frying some food.
+beam_size_1	vid1509	a man is riding a motorcycle.
+beam_size_1	vid1510	the person is cooking.
+beam_size_1	vid1511	a man is taking water.
+beam_size_1	vid1512	a man is talking.
+beam_size_1	vid1513	a man is eating.
+beam_size_1	vid1514	a man is shooting.
+beam_size_1	vid1515	the person is doing the something.
+beam_size_1	vid1516	a man is playing a guitar.
+beam_size_1	vid1517	a dog is playing.
+beam_size_1	vid1518	the person is doing the something.
+beam_size_1	vid1519	a man is walking.
+beam_size_1	vid1520	a woman is sleeping.
+beam_size_1	vid1521	a woman is playing.
+beam_size_1	vid1522	the man is doing the something.
+beam_size_1	vid1523	a man is walking.
+beam_size_1	vid1524	a man is riding a horse.
+beam_size_1	vid1525	a cat is playing.
+beam_size_1	vid1526	a man is riding a bike.
+beam_size_1	vid1527	a man is playing.
+beam_size_1	vid1528	a man is playing a guitar.
+beam_size_1	vid1529	people are talking.
+beam_size_1	vid1530	a man cooking his kichen.
+beam_size_1	vid1531	a man is jumping.
+beam_size_1	vid1532	a man is jumping.
+beam_size_1	vid1533	a man is talking.
+beam_size_1	vid1534	the man is putting the liquid into the bowl.
+beam_size_1	vid1535	a man is making a dish.
+beam_size_1	vid1536	a man is putting water in a bowl.
+beam_size_1	vid1537	a man is shooting a gun.
+beam_size_1	vid1538	a man is playing.
+beam_size_1	vid1539	two people are dancing.
+beam_size_1	vid1540	a man is walking.
+beam_size_1	vid1541	a man is playing.
+beam_size_1	vid1542	a girl is making her hair.
+beam_size_1	vid1543	a man is driving a car.
+beam_size_1	vid1544	a man is playing a guitar.
+beam_size_1	vid1545	a man is riding a horse.
+beam_size_1	vid1546	a man is talking.
+beam_size_1	vid1547	a man is slicing a vegetable.
+beam_size_1	vid1548	a man is slicing a vegetable.
+beam_size_1	vid1549	a man is peeling the food.
+beam_size_1	vid1550	a man is cutting the vegetable.
+beam_size_1	vid1551	a man is slicing a carrot.
+beam_size_1	vid1552	a woman is slicing a vegetable.
+beam_size_1	vid1553	a man is slicing a carrot.
+beam_size_1	vid1554	a person is cutting an onion.
+beam_size_1	vid1555	a man is slicing a vegetable.
+beam_size_1	vid1556	a man is dancing.
+beam_size_1	vid1557	a girl is talking.
+beam_size_1	vid1558	a woman is pouring water into a bowl.
+beam_size_1	vid1559	a man is playing.
+beam_size_1	vid1560	a cat is playing.
+beam_size_1	vid1561	a person is peeling the skin.
+beam_size_1	vid1562	a person is slicing a tomato.
+beam_size_1	vid1563	a cat is playing.
+beam_size_1	vid1564	a baby is playing.
+beam_size_1	vid1565	a man is carrying a bag.
+beam_size_1	vid1566	a man is playing a guitar.
+beam_size_1	vid1567	a man is riding a horse.
+beam_size_1	vid1568	the person is cooking the something.
+beam_size_1	vid1569	the person is doing the something.
+beam_size_1	vid1570	the elephant is playing.
+beam_size_1	vid1571	the women are walking.
+beam_size_1	vid1572	the men are playing.
+beam_size_1	vid1573	a man is riding a bike.
+beam_size_1	vid1574	a man is riding a motorcycle.
+beam_size_1	vid1575	a woman is slicing a potato.
+beam_size_1	vid1576	the boys are playing.
+beam_size_1	vid1577	a girl is playing with water.
+beam_size_1	vid1578	the person is doing the something.
+beam_size_1	vid1579	a man is playing a violin.
+beam_size_1	vid1580	a man is playing a guitar.
+beam_size_1	vid1581	a girl is playing.
+beam_size_1	vid1582	a girl is playing.
+beam_size_1	vid1583	the person is cutting the something.
+beam_size_1	vid1584	a man is playing.
+beam_size_1	vid1585	a person is cooking.
+beam_size_1	vid1586	a man is playing.
+beam_size_1	vid1587	a cat is playing.
+beam_size_1	vid1588	a man is singing.
+beam_size_1	vid1589	a boy is playing.
+beam_size_1	vid1590	a boy is playing a trumpet.
+beam_size_1	vid1591	a man is playing.
+beam_size_1	vid1592	a cat is playing.
+beam_size_1	vid1593	a baby is playing.
+beam_size_1	vid1594	a cat is playing.
+beam_size_1	vid1595	a dog is playing.
+beam_size_1	vid1596	a person is cooking.
+beam_size_1	vid1597	a person is cutting the meat.
+beam_size_1	vid1598	a person is cutting the meat.
+beam_size_1	vid1599	a man is cutting a fish.
+beam_size_1	vid1600	two men are fighting.
+beam_size_1	vid1601	a man is pushing a car.
+beam_size_1	vid1602	the men are playing.
+beam_size_1	vid1603	a man is dancing.
+beam_size_1	vid1604	a boy is sitting on the sofa.
+beam_size_1	vid1605	a man cooking his kichen.
+beam_size_1	vid1606	an animal is eating.
+beam_size_1	vid1607	a man is cutting a paper.
+beam_size_1	vid1608	a man is dancing.
+beam_size_1	vid1609	men are playing football.
+beam_size_1	vid1610	a girl is eating.
+beam_size_1	vid1611	the girl is dancing.
+beam_size_1	vid1612	a man is riding a bicycle.
+beam_size_1	vid1613	the person is cooking.
+beam_size_1	vid1614	the person is cooking.
+beam_size_1	vid1615	a man is slicing bread.
+beam_size_1	vid1616	a man is slicing a potato.
+beam_size_1	vid1617	the person is cooking.
+beam_size_1	vid1618	a dog is playing.
+beam_size_1	vid1619	a man is playing with a dog.
+beam_size_1	vid1620	a man is firing a man.
+beam_size_1	vid1621	a man is playing.
+beam_size_1	vid1622	a man is eating food.
+beam_size_1	vid1623	a man is riding a bike.
+beam_size_1	vid1624	a man is riding a bike.
+beam_size_1	vid1625	a woman is swimming.
+beam_size_1	vid1626	the person is cutting the something.
+beam_size_1	vid1627	a person is slicing an onion.
+beam_size_1	vid1628	a woman is taking a car.
+beam_size_1	vid1629	a man is driving a car.
+beam_size_1	vid1630	a man is playing a guitar.
+beam_size_1	vid1631	a man is doing makeup.
+beam_size_1	vid1632	the person is doing the something.
+beam_size_1	vid1633	a man is riding a bicycle.
+beam_size_1	vid1634	a girl is talking.
+beam_size_1	vid1635	the men are playing.
+beam_size_1	vid1636	a person is cooking.
+beam_size_1	vid1637	a man cooking his kichen.
+beam_size_1	vid1638	a person is cooking.
+beam_size_1	vid1639	a man is playing.
+beam_size_1	vid1640	two people are playing.
+beam_size_1	vid1641	a man is riding a horse.
+beam_size_1	vid1642	the men are playing.
+beam_size_1	vid1643	a man is dancing in the beach.
+beam_size_1	vid1644	a man is singing.
+beam_size_1	vid1645	the person is cutting the something.
+beam_size_1	vid1646	a cat is playing.
+beam_size_1	vid1647	a man is driving a car.
+beam_size_1	vid1648	a girl is applying makeup.
+beam_size_1	vid1649	a man is playing.
+beam_size_1	vid1650	a cat is playing.
+beam_size_1	vid1651	a man is riding a horse.
+beam_size_1	vid1652	a lemur is playing.
+beam_size_1	vid1653	a baby is playing with a dog.
+beam_size_1	vid1654	a cat is playing.
+beam_size_1	vid1655	a man is jumping.
+beam_size_1	vid1656	a dog is playing.
+beam_size_1	vid1657	a man is slicing meat.
+beam_size_1	vid1658	a man is walking.
+beam_size_1	vid1659	the boys are playing.
+beam_size_1	vid1660	the girl is dancing.
+beam_size_1	vid1661	a man is walking on a roof.
+beam_size_1	vid1662	a man is playing.
+beam_size_1	vid1663	two people are dancing.
+beam_size_1	vid1664	a man is walking.
+beam_size_1	vid1665	the person is cutting the something.
+beam_size_1	vid1666	the person is slicing the something.
+beam_size_1	vid1667	someone is slicing an onion.
+beam_size_1	vid1668	a baby is playing.
+beam_size_1	vid1669	a man is playing the piano.
+beam_size_1	vid1670	the person is cooking.
+beam_size_1	vid1671	a boy is playing.
+beam_size_1	vid1672	a little boy is riding a bicycle.
+beam_size_1	vid1673	a man is playing a flute.
+beam_size_1	vid1674	a cat is playing.
+beam_size_1	vid1675	a man is playing.
+beam_size_1	vid1676	a boy is talking.
+beam_size_1	vid1677	a boy is playing.
+beam_size_1	vid1678	a panda is playing.
+beam_size_1	vid1679	men are playing football.
+beam_size_1	vid1680	the girl is doing the something.
+beam_size_1	vid1681	a man is talking.
+beam_size_1	vid1682	a man is playing.
+beam_size_1	vid1683	a baby is laughing.
+beam_size_1	vid1684	a cat is playing.
+beam_size_1	vid1685	a man is talking.
+beam_size_1	vid1686	a man is falling.
+beam_size_1	vid1687	the boys are playing.
+beam_size_1	vid1688	two men are playing.
+beam_size_1	vid1689	the men are playing.
+beam_size_1	vid1690	a man cooking his kichen.
+beam_size_1	vid1691	people are dancing.
+beam_size_1	vid1692	a baby is dancing.
+beam_size_1	vid1693	a man is walking.
+beam_size_1	vid1694	men are playing football.
+beam_size_1	vid1695	a person is cooking.
+beam_size_1	vid1696	a dog is playing.
+beam_size_1	vid1697	a dog is playing.
+beam_size_1	vid1698	a cat is playing.
+beam_size_1	vid1699	a person is cooking.
+beam_size_1	vid1700	someone is mixing flour.
+beam_size_1	vid1701	a woman is putting shrimp into a pan.
+beam_size_1	vid1702	a person is cooking.
+beam_size_1	vid1703	the woman is slicing the something.
+beam_size_1	vid1704	a woman is cutting garlic.
+beam_size_1	vid1705	a woman is slicing a potato.
+beam_size_1	vid1706	the person is cooking.
+beam_size_1	vid1707	a boy is playing.
+beam_size_1	vid1708	a man is using a sword.
+beam_size_1	vid1709	a girl is doing her hair.
+beam_size_1	vid1710	a dog is playing.
+beam_size_1	vid1711	a man is driving a car.
+beam_size_1	vid1712	a man is driving a car.
+beam_size_1	vid1713	the animal is eating the something.
+beam_size_1	vid1714	a man is carrying a baby.
+beam_size_1	vid1715	the animal is eating.
+beam_size_1	vid1716	a girl is applying makeup.
+beam_size_1	vid1717	a woman is walking.
+beam_size_1	vid1718	a panda is playing.
+beam_size_1	vid1719	a boy is eating.
+beam_size_1	vid1720	a man is eating.
+beam_size_1	vid1721	a man is running.
+beam_size_1	vid1722	the person is cooking.
+beam_size_1	vid1723	a car is running.
+beam_size_1	vid1724	two men are dancing.
+beam_size_1	vid1725	a man is talking.
+beam_size_1	vid1726	a man is exercising.
+beam_size_1	vid1727	a man is pushing a cat.
+beam_size_1	vid1728	a man is shooting.
+beam_size_1	vid1729	a group of men are playing.
+beam_size_1	vid1730	a man is exercising.
+beam_size_1	vid1731	a man is riding a bike.
+beam_size_1	vid1732	a group of men are dancing.
+beam_size_1	vid1733	a man is playing.
+beam_size_1	vid1734	a boy is playing a guitar.
+beam_size_1	vid1735	a man is walking.
+beam_size_1	vid1736	a woman is talking.
+beam_size_1	vid1737	a man is playing.
+beam_size_1	vid1738	people are walking.
+beam_size_1	vid1739	a man is talking.
+beam_size_1	vid1740	a man and woman are walking.
+beam_size_1	vid1741	a man is riding a bicycle.
+beam_size_1	vid1742	a person is cooking.
+beam_size_1	vid1743	the person is cutting the something.
+beam_size_1	vid1744	a man is playing the piano.
+beam_size_1	vid1745	a man is dancing.
+beam_size_1	vid1746	a man is cutting a vegetable.
+beam_size_1	vid1747	a woman is taking a glass.
+beam_size_1	vid1748	a cat is playing.
+beam_size_1	vid1749	two girls are talking.
+beam_size_1	vid1750	people are playing.
+beam_size_1	vid1751	a person is cooking.
+beam_size_1	vid1752	a man is slicing a potato.
+beam_size_1	vid1753	a man is driving a car.
+beam_size_1	vid1754	a group of people are dancing.
+beam_size_1	vid1755	a man is speaking.
+beam_size_1	vid1756	a man is using a knife.
+beam_size_1	vid1757	a man is talking.
+beam_size_1	vid1758	a woman is dancing.
+beam_size_1	vid1759	a woman is doing exercise.
+beam_size_1	vid1760	a boy is playing.
+beam_size_1	vid1761	a man is driving a bike.
+beam_size_1	vid1762	a train is running.
+beam_size_1	vid1763	a man is playing.
+beam_size_1	vid1764	people are dancing.
+beam_size_1	vid1765	a man is slicing a carrot.
+beam_size_1	vid1766	a man is playing.
+beam_size_1	vid1767	a man is doing exercise.
+beam_size_1	vid1768	a man is dancing.
+beam_size_1	vid1769	a man is talking.
+beam_size_1	vid1770	a man is putting liquid into a plastic container.
+beam_size_1	vid1771	a man is walking.
+beam_size_1	vid1772	a woman is cooking.
+beam_size_1	vid1773	a cat is playing.
+beam_size_1	vid1774	a man is talking.
+beam_size_1	vid1775	a woman is slicing a carrot.
+beam_size_1	vid1776	a group of people are walking.
+beam_size_1	vid1777	a man is talking.
+beam_size_1	vid1778	a cat is playing.
+beam_size_1	vid1779	the person is cooking.
+beam_size_1	vid1780	a monkey is teasing a dog.
+beam_size_1	vid1781	the animal is eating.
+beam_size_1	vid1782	a man is dancing.
+beam_size_1	vid1783	an animal is eating.
+beam_size_1	vid1784	a man is playing.
+beam_size_1	vid1785	a woman is applying makeup.
+beam_size_1	vid1786	a woman is adding water in a bowl.
+beam_size_1	vid1787	a person is slicing a carrot.
+beam_size_1	vid1788	a man is playing a guitar.
+beam_size_1	vid1789	a man cooking his kichen.
+beam_size_1	vid1790	a man is playing.
+beam_size_1	vid1791	the men are playing.
+beam_size_1	vid1792	a man is riding a bike.
+beam_size_1	vid1793	a cat is playing.
+beam_size_1	vid1794	the person is cooking.
+beam_size_1	vid1795	a woman is holding a baby.
+beam_size_1	vid1796	a man is playing a guitar.
+beam_size_1	vid1797	a man is cleaning the floor.
+beam_size_1	vid1798	a woman is dancing.
+beam_size_1	vid1799	a cat is playing.
+beam_size_1	vid1800	people are playing football.
+beam_size_1	vid1801	a man is riding a horse.
+beam_size_1	vid1802	a man cooking his kichen.
+beam_size_1	vid1803	a man is walking.
+beam_size_1	vid1804	a man is playing a desk.
+beam_size_1	vid1805	a man is firing a gun.
+beam_size_1	vid1806	a man is dancing.
+beam_size_1	vid1807	a bear is walking.
+beam_size_1	vid1808	a man is driving a car.
+beam_size_1	vid1809	a man is carrying a bottle.
+beam_size_1	vid1810	a person is playing.
+beam_size_1	vid1811	a man is riding a bike.
+beam_size_1	vid1812	a man is riding a bike.
+beam_size_1	vid1813	a man is running.
+beam_size_1	vid1814	a man is dancing.
+beam_size_1	vid1815	a man is playing.
+beam_size_1	vid1816	a baby is walking.
+beam_size_1	vid1817	a panda is climbing.
+beam_size_1	vid1818	a bird is eating.
+beam_size_1	vid1819	a man is running.
+beam_size_1	vid1820	a man is jumping.
+beam_size_1	vid1821	a man is walking in the forest.
+beam_size_1	vid1822	a cat is playing.
+beam_size_1	vid1823	a man is playing a keyboard.
+beam_size_1	vid1824	a man is making the food.
+beam_size_1	vid1825	a cat is playing.
+beam_size_1	vid1826	a man is riding a bike.
+beam_size_1	vid1827	a person is cooking.
+beam_size_1	vid1828	a woman is sleeping.
+beam_size_1	vid1829	a man is falling.
+beam_size_1	vid1830	a man is singing.
+beam_size_1	vid1831	a man is riding a horse.
+beam_size_1	vid1832	the men are playing.
+beam_size_1	vid1833	a man is walking.
+beam_size_1	vid1834	a man is playing the piano.
+beam_size_1	vid1835	a panda is climbing.
+beam_size_1	vid1836	a man is playing.
+beam_size_1	vid1837	a woman is exercising.
+beam_size_1	vid1838	a baby is playing.
+beam_size_1	vid1839	a man is playing.
+beam_size_1	vid1840	a woman is dancing.
+beam_size_1	vid1841	a man is slicing a carrot.
+beam_size_1	vid1842	a man is riding a bicycle.
+beam_size_1	vid1843	a man is shooting a gun.
+beam_size_1	vid1844	a cat is playing.
+beam_size_1	vid1845	zebras are eating.
+beam_size_1	vid1846	a man is playing.
+beam_size_1	vid1847	a man is running.
+beam_size_1	vid1848	a plane is taking off.
+beam_size_1	vid1849	a man cooking his kichen.
+beam_size_1	vid1850	a man is exercising.
+beam_size_1	vid1851	a girl is riding a horse.
+beam_size_1	vid1852	a man is talking.
+beam_size_1	vid1853	a girl is swimming.
+beam_size_1	vid1854	a cat is playing.
+beam_size_1	vid1855	a man is slicing a carrot.
+beam_size_1	vid1856	a woman is pouring water.
+beam_size_1	vid1857	a girl is doing makeup.
+beam_size_1	vid1858	a man is playing a guitar.
+beam_size_1	vid1859	a man is playing a guitar.
+beam_size_1	vid1860	a man is driving a car.
+beam_size_1	vid1861	a man is running.
+beam_size_1	vid1862	a woman is playing a violin.
+beam_size_1	vid1863	the animal is playing.
+beam_size_1	vid1864	a woman is chopping a vegetable.
+beam_size_1	vid1865	a baby is playing.
+beam_size_1	vid1866	a dolphin is playing.
+beam_size_1	vid1867	two people are talking.
+beam_size_1	vid1868	a man is playing.
+beam_size_1	vid1869	a woman is exercising.
+beam_size_1	vid1870	a man is walking.
+beam_size_1	vid1871	a man is running.
+beam_size_1	vid1872	a man is dancing.
+beam_size_1	vid1873	a cat is jumping.
+beam_size_1	vid1874	a boy is dancing.
+beam_size_1	vid1875	the person is cooking.
+beam_size_1	vid1876	the person is cutting the something.
+beam_size_1	vid1877	a woman is exercising.
+beam_size_1	vid1878	a man is walking.
+beam_size_1	vid1879	a man is exercising.
+beam_size_1	vid1880	the girl is playing.
+beam_size_1	vid1881	a man is playing.
+beam_size_1	vid1882	a baby is walking.
+beam_size_1	vid1883	a man is playing a guitar.
+beam_size_1	vid1884	a man is playing.
+beam_size_1	vid1885	a man is walking.
+beam_size_1	vid1886	a man is riding a boat.
+beam_size_1	vid1887	a boy is playing.
+beam_size_1	vid1888	a man is driving a car.
+beam_size_1	vid1889	a woman is playing a guitar.
+beam_size_1	vid1890	the person is cooking.
+beam_size_1	vid1891	the person is cooking.
+beam_size_1	vid1892	a boy is playing.
+beam_size_1	vid1893	a man is running.
+beam_size_1	vid1894	a man is playing.
+beam_size_1	vid1895	a man is dancing.
+beam_size_1	vid1896	a man is climbing a bicycle.
+beam_size_1	vid1897	two men are dancing.
+beam_size_1	vid1898	a man is walking.
+beam_size_1	vid1899	a man is dancing.
+beam_size_1	vid1900	a man is running.
+beam_size_1	vid1901	a man is walking.
+beam_size_1	vid1902	a man is walking.
+beam_size_1	vid1903	a man is dancing.
+beam_size_1	vid1904	a man is talking.
+beam_size_1	vid1905	a man is running.
+beam_size_1	vid1906	a man is dancing.
+beam_size_1	vid1907	the person is playing.
+beam_size_1	vid1908	the person is cutting the something.
+beam_size_1	vid1909	a cat is playing.
+beam_size_1	vid1910	a man is talking.
+beam_size_1	vid1911	a cat is playing with a cat.
+beam_size_1	vid1912	a man cooking his kichen.
+beam_size_1	vid1913	a cat is playing.
+beam_size_1	vid1914	a man is jumping a fence.
+beam_size_1	vid1915	a dog is playing.
+beam_size_1	vid1916	a man is playing.
+beam_size_1	vid1917	a woman is taking a potato.
+beam_size_1	vid1918	a man is riding a horse.
+beam_size_1	vid1919	a man is playing.
+beam_size_1	vid1920	a man is jumping.
+beam_size_1	vid1921	a man is driving a car.
+beam_size_1	vid1922	a man is running into a wall.
+beam_size_1	vid1923	a man is riding a horse.
+beam_size_1	vid1924	a man is talking.
+beam_size_1	vid1925	a panda is playing.
+beam_size_1	vid1926	a woman is playing a stick.
+beam_size_1	vid1927	a man is dancing.
+beam_size_1	vid1928	a person is jumping.
+beam_size_1	vid1929	a person is slicing a carrot.
+beam_size_1	vid1930	a man cooking his kichen.
+beam_size_1	vid1931	a man is cutting a potato.
+beam_size_1	vid1932	a dog is playing.
+beam_size_1	vid1933	a man is talking.
+beam_size_1	vid1934	a man is playing a flute.
+beam_size_1	vid1935	a boy is playing football.
+beam_size_1	vid1936	the person is slicing the something.
+beam_size_1	vid1937	people are dancing.
+beam_size_1	vid1938	a cat is playing.
+beam_size_1	vid1939	a person is playing.
+beam_size_1	vid1940	a man is playing the piano.
+beam_size_1	vid1941	a man is riding a horse.
+beam_size_1	vid1942	a man cooking his kichen.
+beam_size_1	vid1943	a man cooking his kichen.
+beam_size_1	vid1944	a man is slicing a potato.
+beam_size_1	vid1945	a man is swimming.
+beam_size_1	vid1946	a man is jumping.
+beam_size_1	vid1947	a man is running.
+beam_size_1	vid1948	a man is riding a car.
+beam_size_1	vid1949	a plane is flying.
+beam_size_1	vid1950	a man is riding a horse.
+beam_size_1	vid1951	a man is riding a horse.
+beam_size_1	vid1952	a man is making a box.
+beam_size_1	vid1953	a woman is playing.
+beam_size_1	vid1954	a girl is making some food.
+beam_size_1	vid1955	a man is talking.
+beam_size_1	vid1956	a man is running.
+beam_size_1	vid1957	a monkey is playing.
+beam_size_1	vid1958	a dog is playing.
+beam_size_1	vid1959	a man is talking.
+beam_size_1	vid1960	a man is playing.
+beam_size_1	vid1961	a man is playing.
+beam_size_1	vid1962	a panda is climbing.
+beam_size_1	vid1963	a boy is playing.
+beam_size_1	vid1964	a woman is swimming.
+beam_size_1	vid1965	a cat is playing.
+beam_size_1	vid1966	a girl is jumping.
+beam_size_1	vid1967	a man is dancing.
+beam_size_1	vid1968	a man is taking a man.
+beam_size_1	vid1969	a man is riding a bicycle.
+beam_size_1	vid1970	a man is taking a boat.
