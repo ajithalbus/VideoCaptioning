@@ -1,5 +1,7 @@
 *.npy
 *.pkl
+BestOfBest/
+BestOfBestOfBest/
 crt_split/
 model/
 BestModel_1024_1024/
@@ -12,5 +14,20 @@ flip/
 transModels/
 BestTrans/
 log/
+BestTrans_oldsetLM/
+BestLM-new/
+BestModel_1024_1024/
+BestOfBest/
+BestOfBestOfBest/
+BestTrans/
 BestTrans_oldset/
+captions/
+crt_split/
+features/
+glove/
+language_model/
+log/
+LSTM_LM_newset/
+model/
+transModels//
 

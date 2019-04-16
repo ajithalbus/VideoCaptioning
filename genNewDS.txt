@@ -668,3 +668,1343 @@ beam_size_5	vid1967	a man is dancing <END> <END> <END> <END> <END> <END> <END> <
 beam_size_5	vid1968	a man and woman are walking <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END>
 beam_size_5	vid1969	a man is riding a bike <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END>
 beam_size_5	vid1970	a man is walking <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END> <END>
+beam_size_5	vid1971	a man is playing with a dog
+beam_size_5	vid1972	a man is riding a motorcycle
+beam_size_5	vid1973	a cat is playing
+beam_size_5	vid1974	a man is tying his shoes
+beam_size_5	vid1975	a man is walking
+beam_size_5	vid1976	a man is sharpening a knife
+beam_size_5	vid1977	a woman is brushing her fingers
+beam_size_5	vid1978	a group of people are dancing
+beam_size_5	vid1979	a woman is dancing
+beam_size_5	vid1980	a woman is applying lipstick
+beam_size_5	vid1981	a cat is playing
+beam_size_5	vid1982	a man is dancing
+beam_size_5	vid1983	a man is running
+beam_size_5	vid1984	two men are running
+beam_size_5	vid1985	a man is riding a motorcycle
+beam_size_5	vid1986	a man is reading a newspaper
+beam_size_5	vid1987	a woman is dancing
+beam_size_5	vid1988	a man is running
+beam_size_5	vid1989	a man is riding a skateboard
+beam_size_5	vid1990	a man is dancing
+beam_size_5	vid1991	a man is playing a guitar
+beam_size_5	vid1992	a man is slicing a potato
+beam_size_5	vid1993	a man is playing a guitar
+beam_size_5	vid1994	a dog is playing
+beam_size_5	vid1995	a man is driving a car
+beam_size_5	vid1996	a man is driving a car
+beam_size_5	vid1997	a polar bear is sliding on the snow
+beam_size_5	vid1998	a person is mixing ingrediants
+beam_size_5	vid1999	a dog is running
+beam_size_5	vid2000	a man is talking
+beam_size_5	vid2001	a man is opening a door
+beam_size_5	vid2002	two men are fighting
+beam_size_5	vid2003	a man opens a door
+beam_size_5	vid2004	a man is slicing a carrot
+beam_size_5	vid2005	a monkey is running
+beam_size_5	vid2006	a polar bear is walking
+beam_size_5	vid2007	a polar bear is walking
+beam_size_5	vid2008	a man is playing a guitar
+beam_size_5	vid2009	a dog is catching a fish
+beam_size_5	vid2010	a cat is jumping over a wall
+beam_size_5	vid2011	a man is shooting a gun
+beam_size_5	vid2012	a man is slicing bread
+beam_size_5	vid2013	a man is making pizza
+beam_size_5	vid2014	a man cooking his kichen
+beam_size_5	vid2015	a man is sitting on the floor
+beam_size_5	vid2016	a man is driving a car
+beam_size_5	vid2017	a man is lifting weights
+beam_size_5	vid2018	a man is playing with a dog
+beam_size_5	vid2019	a man is cutting a tree
+beam_size_5	vid2020	a man cooking his kichen
+beam_size_5	vid2021	a group of people are walking
+beam_size_5	vid2022	a cat is eating
+beam_size_5	vid2023	a man is playing a guitar
+beam_size_5	vid2024	a man is singing
+beam_size_5	vid2025	a man is riding a horse
+beam_size_5	vid2026	a man is playing a guitar
+beam_size_5	vid2027	a man is driving a car
+beam_size_5	vid2028	a man is running
+beam_size_5	vid2029	a dog is running
+beam_size_5	vid2030	a dog is swimming
+beam_size_5	vid2031	a man is holding a microwave
+beam_size_5	vid2032	a man is shooting a gun
+beam_size_5	vid2033	a cat is playing
+beam_size_5	vid2034	a man is running
+beam_size_5	vid2035	a woman is dancing
+beam_size_5	vid2036	a group of people are walking
+beam_size_5	vid2037	a man is lifting weights
+beam_size_5	vid2038	a man is smoking
+beam_size_5	vid2039	a person is playing with a rabbit
+beam_size_5	vid2040	a man is drinking water
+beam_size_5	vid2041	a woman is dancing
+beam_size_5	vid2042	a man is walking
+beam_size_5	vid2043	a man is dancing
+beam_size_5	vid2044	a man cooking his kichen
+beam_size_5	vid2045	a man cooking his kichen
+beam_size_5	vid2046	a man cooking his kichen
+beam_size_5	vid2047	a man is pouring water into a pan
+beam_size_5	vid2048	a man cooking his kichen
+beam_size_5	vid2049	a man is pouring water into a pan
+beam_size_5	vid2050	a man cooking his kichen
+beam_size_5	vid2051	a man is cooking
+beam_size_5	vid2052	two women are dancing
+beam_size_5	vid2053	a woman is dancing
+beam_size_5	vid2054	a woman is washing her hands
+beam_size_5	vid2055	a woman is dancing
+beam_size_5	vid2056	a man is running
+beam_size_5	vid2057	two men are fighting
+beam_size_5	vid2058	a person is playing a violin
+beam_size_5	vid2059	a baby is crying
+beam_size_5	vid2060	a dog is playing with a ball
+beam_size_5	vid2061	a man cooking his kichen
+beam_size_5	vid2062	a slow loris is biting a mans hand
+beam_size_5	vid2063	a man is walking
+beam_size_5	vid2064	a cat is playing with a toy
+beam_size_5	vid2065	a man is playing a guitar
+beam_size_5	vid2066	a man is skating
+beam_size_5	vid2067	a dog is running
+beam_size_5	vid2068	a man is dancing
+beam_size_5	vid2069	a cat is playing
+beam_size_5	vid2070	a man is playing a guitar
+beam_size_5	vid2071	a man is riding a horse
+beam_size_5	vid2072	a man is playing a keyboard
+beam_size_5	vid2073	two women are fighting
+beam_size_5	vid2074	a man is running
+beam_size_5	vid2075	a woman is cooking meat
+beam_size_5	vid2076	a dog is looking at a bug
+beam_size_5	vid2077	a cat is licking a lollipop
+beam_size_5	vid2078	a man is crying
+beam_size_5	vid2079	a woman is applying lipstick
+beam_size_5	vid2080	a man is slicing a potato
+beam_size_5	vid2081	a man is running
+beam_size_5	vid2082	a man is walking
+beam_size_5	vid2083	a boy is playing with a ball
+beam_size_5	vid2084	a monkey is running
+beam_size_5	vid2085	a man is driving a car
+beam_size_5	vid2086	a tiger is running
+beam_size_5	vid2087	a man is running
+beam_size_5	vid2088	a cat is walking
+beam_size_5	vid2089	a man is dancing
+beam_size_5	vid2090	a man is cutting a cucumber
+beam_size_5	vid2091	a man cooking his kichen
+beam_size_5	vid2092	a cat is playing
+beam_size_5	vid2093	a woman is putting on sunglasses
+beam_size_5	vid2094	a man is running
+beam_size_5	vid2095	a man is running
+beam_size_5	vid2096	a man is cutting a cake
+beam_size_5	vid2097	a man is walking
+beam_size_5	vid2098	a man is cooking
+beam_size_5	vid2099	a man is slicing a carrot
+beam_size_5	vid2100	a man is slicing a carrot
+beam_size_5	vid2101	a man is cutting a piece of paper
+beam_size_5	vid2102	a dog is playing
+beam_size_5	vid2103	a dog is playing
+beam_size_5	vid2104	a man is playing a piano
+beam_size_5	vid2105	a man is walking
+beam_size_5	vid2106	a bear is walking
+beam_size_5	vid2107	a man is slicing a potato
+beam_size_5	vid2108	a man is playing with a dog
+beam_size_5	vid2109	a man is playing a guitar
+beam_size_5	vid2110	two men are jogging on the beach
+beam_size_5	vid2111	a man is holding a sunflower
+beam_size_5	vid2112	a man cooking his kichen
+beam_size_5	vid2113	a boy is jumping
+beam_size_5	vid2114	a woman is washing a bowl
+beam_size_5	vid2115	a man cooking his kichen
+beam_size_5	vid2116	a group of people are walking
+beam_size_5	vid2117	a man is riding a skateboard
+beam_size_5	vid2118	a dog is running
+beam_size_5	vid2119	a woman is putting on makeup
+beam_size_5	vid2120	a man is opening a door
+beam_size_5	vid2121	a man is shooting a gun
+beam_size_5	vid2122	men are playing football
+beam_size_5	vid2123	two men are fighting
+beam_size_5	vid2124	a man is running
+beam_size_5	vid2125	a man is running
+beam_size_5	vid2126	a man is running
+beam_size_5	vid2127	a man jumps off a roof
+beam_size_5	vid2128	a man cooking his kichen
+beam_size_5	vid2129	a man is kneading dough
+beam_size_5	vid2130	a man is playing a guitar
+beam_size_5	vid2131	a baby is playing with a ball
+beam_size_5	vid2132	a dog is playing
+beam_size_5	vid2133	a man is riding a bike
+beam_size_5	vid2134	a dolphin jumps into the water
+beam_size_5	vid2135	a band is performing on stage
+beam_size_5	vid2136	two men are fighting
+beam_size_5	vid2137	a man is shooting a gun
+beam_size_5	vid2138	a man is cutting a potato
+beam_size_5	vid2139	a man cooking his kichen
+beam_size_5	vid2140	a man is slicing a potato
+beam_size_5	vid2141	two men are playing chess
+beam_size_5	vid2142	a man is slicing an onion
+beam_size_5	vid2143	a baby is playing
+beam_size_5	vid2144	a man is singing
+beam_size_5	vid2145	a man is eating
+beam_size_5	vid2146	a man is running
+beam_size_5	vid2147	a man is driving a car
+beam_size_5	vid2148	a woman is cutting meat
+beam_size_5	vid2149	a woman is peeling shrimp
+beam_size_5	vid2150	a woman is cutting meat
+beam_size_5	vid2151	a person is cutting a vegetable
+beam_size_5	vid2152	a woman is cutting meat
+beam_size_5	vid2153	a man is slicing a carrot
+beam_size_5	vid2154	a man is cutting meat
+beam_size_5	vid2155	a person is mixing flour
+beam_size_5	vid2156	a man cooking his kichen
+beam_size_5	vid2157	a man cooking his kichen
+beam_size_5	vid2158	a man cooking his kichen
+beam_size_5	vid2159	a man is slicing a carrot
+beam_size_5	vid2160	a man cooking his kichen
+beam_size_5	vid2161	a man is slicing a carrot
+beam_size_5	vid2162	a man cooking his kichen
+beam_size_5	vid2163	a man is slicing a carrot
+beam_size_5	vid2164	a man is slicing a vegetable
+beam_size_5	vid2165	a woman is slicing a carrot
+beam_size_5	vid2166	a man cooking his kichen
+beam_size_5	vid2167	a person is cooking
+beam_size_5	vid2168	a man is slicing a potato
+beam_size_5	vid2169	a man is slicing a potato
+beam_size_5	vid2170	a man cooking his kichen
+beam_size_5	vid2171	a man is dancing
+beam_size_5	vid2172	a man is playing a guitar
+beam_size_5	vid2173	a woman is slicing a cucumber
+beam_size_5	vid2174	a woman is slicing meat
+beam_size_5	vid2175	a woman is slicing a piece of meat
+beam_size_5	vid2176	a woman is breading meat
+beam_size_5	vid2177	a woman is cutting meat
+beam_size_5	vid2178	a man cooking his kichen
+beam_size_5	vid2179	a man is riding a motorcycle
+beam_size_5	vid2180	a woman is pouring ingredients into a bowl
+beam_size_5	vid2181	a man is pouring water into a container
+beam_size_5	vid2182	a man is eating
+beam_size_5	vid2183	a man is eating
+beam_size_5	vid2184	a man is breaking a flaming board
+beam_size_5	vid2185	a man is tying a sock
+beam_size_5	vid2186	a man is playing a guitar
+beam_size_5	vid2187	a dog is eating
+beam_size_5	vid2188	a woman is picking up a watering can
+beam_size_5	vid2189	a man is running
+beam_size_5	vid2190	a woman is laying on a bed
+beam_size_5	vid2191	a woman is dancing
+beam_size_5	vid2192	a man is running
+beam_size_5	vid2193	a man is running
+beam_size_5	vid2194	two men are fighting
+beam_size_5	vid2195	a cat is playing
+beam_size_5	vid2196	a man is riding a skateboard
+beam_size_5	vid2197	a man is playing a trumpet
+beam_size_5	vid2198	a man is playing a guitar
+beam_size_5	vid2199	a man is dancing
+beam_size_5	vid2200	a man cooking his kichen
+beam_size_5	vid2201	a man is running
+beam_size_5	vid2202	a cat jumps into a wall
+beam_size_5	vid2203	a man is talking
+beam_size_5	vid2204	a man is pouring water into a container
+beam_size_5	vid2205	a man is putting butter into a bag
+beam_size_5	vid2206	a man is pouring water into a container
+beam_size_5	vid2207	a man is shooting a gun
+beam_size_5	vid2208	a man is running
+beam_size_5	vid2209	two women are dancing
+beam_size_5	vid2210	a man is walking
+beam_size_5	vid2211	a boy is riding a skateboard
+beam_size_5	vid2212	a woman is cutting a sock
+beam_size_5	vid2213	a man is riding a bike
+beam_size_5	vid2214	a man is playing a guitar
+beam_size_5	vid2215	a man is riding a horse
+beam_size_5	vid2216	a man is cooking
+beam_size_5	vid2217	a man is slicing a potato
+beam_size_5	vid2218	a man is slicing a potato
+beam_size_5	vid2219	a man is slicing a carrot
+beam_size_5	vid2220	a woman is slicing a carrot
+beam_size_5	vid2221	a man is slicing a potato
+beam_size_5	vid2222	a man is slicing a carrot
+beam_size_5	vid2223	a man is slicing a potato
+beam_size_5	vid2224	a man is slicing an onion
+beam_size_5	vid2225	a man is slicing a potato
+beam_size_5	vid2226	a man is lifting weights
+beam_size_5	vid2227	a woman is holding a kangaroo
+beam_size_5	vid2228	a woman is pouring water into a bowl
+beam_size_5	vid2229	a soccer player scores a goal
+beam_size_5	vid2230	a dog is playing
+beam_size_5	vid2231	a man is peeling a potato
+beam_size_5	vid2232	a man is slicing a potato
+beam_size_5	vid2233	a dog is playing with a ball
+beam_size_5	vid2234	two men are fighting
+beam_size_5	vid2235	a man is walking
+beam_size_5	vid2236	a man is playing a guitar
+beam_size_5	vid2237	a woman is riding a horse
+beam_size_5	vid2238	a man is cooking
+beam_size_5	vid2239	the person is cutting the something
+beam_size_5	vid2240	a tiger is walking
+beam_size_5	vid2241	two women are dancing
+beam_size_5	vid2242	a man is running
+beam_size_5	vid2243	a man is riding a motorcycle
+beam_size_5	vid2244	a man is riding a motorcycle
+beam_size_5	vid2245	a man is slicing a carrot
+beam_size_5	vid2246	a man is running
+beam_size_5	vid2247	a man is drinking water
+beam_size_5	vid2248	a man is cutting a piece of paper
+beam_size_5	vid2249	a man is playing a violin
+beam_size_5	vid2250	a man is playing a guitar
+beam_size_5	vid2251	a woman is dancing
+beam_size_5	vid2252	a woman is dancing
+beam_size_5	vid2253	a man is cutting a vegetable
+beam_size_5	vid2254	a man is riding a bike
+beam_size_5	vid2255	a man cooking his kichen
+beam_size_5	vid2256	a man is holding a fish
+beam_size_5	vid2257	a woman is holding a baby kitten
+beam_size_5	vid2258	a man is singing
+beam_size_5	vid2259	a dog is walking
+beam_size_5	vid2260	a man is playing a trumpet
+beam_size_5	vid2261	a man is dancing
+beam_size_5	vid2262	a man is dancing
+beam_size_5	vid2263	a cat is playing
+beam_size_5	vid2264	a kitten is playing with a toy
+beam_size_5	vid2265	a cat is playing
+beam_size_5	vid2266	a man cooking his kichen
+beam_size_5	vid2267	a man is slicing bread
+beam_size_5	vid2268	a man is cutting meat
+beam_size_5	vid2269	a man is cutting a piece of bread
+beam_size_5	vid2270	two men are fighting
+beam_size_5	vid2271	a man is running
+beam_size_5	vid2272	a man is skateboarding
+beam_size_5	vid2273	a man is dancing
+beam_size_5	vid2274	a woman is sitting on bed
+beam_size_5	vid2275	a man is slicing a potato
+beam_size_5	vid2276	a loris is eating
+beam_size_5	vid2277	a man is cutting a sock
+beam_size_5	vid2278	a man is riding a bicycle
+beam_size_5	vid2279	two men are playing football
+beam_size_5	vid2280	a woman is brushing her hair
+beam_size_5	vid2281	two women are dancing
+beam_size_5	vid2282	a woman is riding a motorcycle
+beam_size_5	vid2283	a man is cutting a sock
+beam_size_5	vid2284	a man cooking his kichen
+beam_size_5	vid2285	a man is slicing a potato
+beam_size_5	vid2286	a woman is slicing a carrot
+beam_size_5	vid2287	a man cooking his kichen
+beam_size_5	vid2288	a dog is running
+beam_size_5	vid2289	a man is riding a horse
+beam_size_5	vid2290	a man is running
+beam_size_5	vid2291	a man is lifting a log
+beam_size_5	vid2292	a man is eating food
+beam_size_5	vid2293	a man is riding a bike
+beam_size_5	vid2294	a man is riding a bike
+beam_size_5	vid2295	a woman is dancing
+beam_size_5	vid2296	a man is slicing an onion
+beam_size_5	vid2297	a man is slicing a potato
+beam_size_5	vid2298	a woman is dancing
+beam_size_5	vid2299	a man is riding a motorcycle
+beam_size_5	vid2300	a man is playing a guitar
+beam_size_5	vid2301	a woman is applying makeup
+beam_size_5	vid2302	a man is dancing
+beam_size_5	vid2303	a man is riding a bike
+beam_size_5	vid2304	a woman is putting on sunglasses
+beam_size_5	vid2305	people are dancing
+beam_size_5	vid2306	a man cooking his kichen
+beam_size_5	vid2307	a man cooking his kichen
+beam_size_5	vid2308	a man cooking his kichen
+beam_size_5	vid2309	a woman is dancing
+beam_size_5	vid2310	a man is running
+beam_size_5	vid2311	a man is riding a horse
+beam_size_5	vid2312	a dog is riding a skateboard
+beam_size_5	vid2313	a man is skiing
+beam_size_5	vid2314	a man is singing
+beam_size_5	vid2315	a man is cutting a vegetable
+beam_size_5	vid2316	a cat is playing
+beam_size_5	vid2317	a man is driving a car
+beam_size_5	vid2318	a woman is plucking her eyebrows
+beam_size_5	vid2319	a woman is feeding a kangaroo
+beam_size_5	vid2320	a dog is running
+beam_size_5	vid2321	a man is riding a horse
+beam_size_5	vid2322	a lemur is sitting on the ground
+beam_size_5	vid2323	a dog is playing
+beam_size_5	vid2324	a man is playing with a dog
+beam_size_5	vid2325	a man is riding a bike
+beam_size_5	vid2326	a dog is playing with a ball
+beam_size_5	vid2327	a man is slicing meat
+beam_size_5	vid2328	a man is singing
+beam_size_5	vid2329	a man is running
+beam_size_5	vid2330	two women are dancing
+beam_size_5	vid2331	a man is riding a skateboard
+beam_size_5	vid2332	a man is playing with a dog
+beam_size_5	vid2333	a man is dancing
+beam_size_5	vid2334	a man is stirring a car
+beam_size_5	vid2335	a man is peeling a potato
+beam_size_5	vid2336	a man is peeling a potato
+beam_size_5	vid2337	a man is slicing a potato
+beam_size_5	vid2338	a boy is playing
+beam_size_5	vid2339	a man is playing a piano
+beam_size_5	vid2340	a man is pouring sauce into a bowl
+beam_size_5	vid2341	a man is running
+beam_size_5	vid2342	a man is riding a skateboard
+beam_size_5	vid2343	a man is playing a flute
+beam_size_5	vid2344	a cat is playing
+beam_size_5	vid2345	two women are dancing
+beam_size_5	vid2346	a man is crying
+beam_size_5	vid2347	a man is playing with a man
+beam_size_5	vid2348	a panda is cleaning itself
+beam_size_5	vid2349	a man is running
+beam_size_5	vid2350	a woman is brushing her hair
+beam_size_5	vid2351	a man is talking
+beam_size_5	vid2352	a man is smoking
+beam_size_5	vid2353	a baby is laughing
+beam_size_5	vid2354	a cat is drinking milk
+beam_size_5	vid2355	a man is smoking
+beam_size_5	vid2356	a man is dancing
+beam_size_5	vid2357	a man is skateboarding
+beam_size_5	vid2358	a dog is running
+beam_size_5	vid2359	a man is skating
+beam_size_5	vid2360	a man is stirring a bowl of soup
+beam_size_5	vid2361	two men are fighting
+beam_size_5	vid2362	a little girl is dancing
+beam_size_5	vid2363	a man is running
+beam_size_5	vid2364	two men are fighting
+beam_size_5	vid2365	a man cooking his kichen
+beam_size_5	vid2366	a dog is playing
+beam_size_5	vid2367	a dog is playing with a dog
+beam_size_5	vid2368	a cat is playing with a toy
+beam_size_5	vid2369	a man cooking his kichen
+beam_size_5	vid2370	a person is mixing ingredients in a bowl
+beam_size_5	vid2371	a woman is cutting meat
+beam_size_5	vid2372	a man cooking his kichen
+beam_size_5	vid2373	a woman is peeling a carrot
+beam_size_5	vid2374	a man is cutting a vegetable
+beam_size_5	vid2375	a woman is slicing a carrot
+beam_size_5	vid2376	a woman is slicing a cucumber
+beam_size_5	vid2377	a man is running
+beam_size_5	vid2378	a man is cutting a rope
+beam_size_5	vid2379	a woman is putting her hair
+beam_size_5	vid2380	a dog is swimming
+beam_size_5	vid2381	a man is driving a car
+beam_size_5	vid2382	a man is lifting a car
+beam_size_5	vid2383	a monkey is pulling a dead deer
+beam_size_5	vid2384	a man is eating
+beam_size_5	vid2385	a slow loris is biting a persons finger
+beam_size_5	vid2386	a woman is applying lipstick
+beam_size_5	vid2387	a man is cutting flowers
+beam_size_5	vid2388	a panda is walking
+beam_size_5	vid2389	a boy is playing with a rope
+beam_size_5	vid2390	a man is cutting a vegetable
+beam_size_5	vid2391	a man is running
+beam_size_5	vid2392	a man cooking his kichen
+beam_size_5	vid2393	a man is running
+beam_size_5	vid2394	a man is dancing
+beam_size_5	vid2395	a man is running
+beam_size_5	vid2396	a man is doing exercise
+beam_size_5	vid2397	a man is running
+beam_size_5	vid2398	a man is shooting
+beam_size_5	vid2399	a man is dancing
+beam_size_5	vid2400	a man is doing exercise
+beam_size_5	vid2401	a man is riding a bike
+beam_size_5	vid2402	people are dancing
+beam_size_5	vid2403	a man is doing karate
+beam_size_5	vid2404	a man is playing a guitar
+beam_size_5	vid2405	a man is running
+beam_size_5	vid2406	two women are eating
+beam_size_5	vid2407	a man is dancing
+beam_size_5	vid2408	a man is running
+beam_size_5	vid2409	two men are playing chess
+beam_size_5	vid2410	a woman is dancing
+beam_size_5	vid2411	a man is riding a bike
+beam_size_5	vid2412	a man is cutting meat
+beam_size_5	vid2413	a man is cutting some bread
+beam_size_5	vid2414	a man is playing a piano
+beam_size_5	vid2415	a man is running
+beam_size_5	vid2416	a man is slicing a potato
+beam_size_5	vid2417	a woman is exercising
+beam_size_5	vid2418	a woman is playing with a dog
+beam_size_5	vid2419	two men are talking
+beam_size_5	vid2420	people are fighting
+beam_size_5	vid2421	a man is peeling a potato
+beam_size_5	vid2422	a man is slicing a potato
+beam_size_5	vid2423	a man is driving a car
+beam_size_5	vid2424	a man is dancing
+beam_size_5	vid2425	a man is talking on the phone
+beam_size_5	vid2426	a man is cutting a sock
+beam_size_5	vid2427	a man is opening a door
+beam_size_5	vid2428	a man is running
+beam_size_5	vid2429	a woman is dancing
+beam_size_5	vid2430	a monkey is running
+beam_size_5	vid2431	a man is riding a bike
+beam_size_5	vid2432	a car is running
+beam_size_5	vid2433	a man is breaking a stick
+beam_size_5	vid2434	people are dancing
+beam_size_5	vid2435	a man is slicing a carrot
+beam_size_5	vid2436	a man is playing with a dog
+beam_size_5	vid2437	a man is lifting weights
+beam_size_5	vid2438	a man is singing
+beam_size_5	vid2439	a man is singing
+beam_size_5	vid2440	a man is pouring water into a bowl
+beam_size_5	vid2441	a monkey is running
+beam_size_5	vid2442	a woman is picking up a watering can
+beam_size_5	vid2443	a cat is playing
+beam_size_5	vid2444	a man is walking
+beam_size_5	vid2445	a man is slicing a potato
+beam_size_5	vid2446	a man is riding a horse
+beam_size_5	vid2447	a man is dancing
+beam_size_5	vid2448	a cat is playing
+beam_size_5	vid2449	a man is cooking
+beam_size_5	vid2450	a monkey is pulling a dogs tail
+beam_size_5	vid2451	a woman is petting a lemur
+beam_size_5	vid2452	a man is dancing
+beam_size_5	vid2453	a monkey is catching a fish
+beam_size_5	vid2454	a man is lifting weights
+beam_size_5	vid2455	a woman is cutting a sock
+beam_size_5	vid2456	a man is cooking
+beam_size_5	vid2457	a man is slicing a carrot
+beam_size_5	vid2458	a man is playing a guitar
+beam_size_5	vid2459	a man is eating food
+beam_size_5	vid2460	a man is playing a guitar
+beam_size_5	vid2461	two men are fighting
+beam_size_5	vid2462	a man is riding a bike
+beam_size_5	vid2463	a cat is playing
+beam_size_5	vid2464	a man is pouring water into a bowl
+beam_size_5	vid2465	a woman is exercising
+beam_size_5	vid2466	a man is playing a guitar
+beam_size_5	vid2467	a man is cleaning the floor
+beam_size_5	vid2468	a girl is dancing
+beam_size_5	vid2469	a cat is playing
+beam_size_5	vid2470	a man is running
+beam_size_5	vid2471	a woman is riding a horse
+beam_size_5	vid2472	a man cooking his kichen
+beam_size_5	vid2473	a man is holding a gun
+beam_size_5	vid2474	a man is climbing a rope
+beam_size_5	vid2475	a man is shooting a gun
+beam_size_5	vid2476	a man is dancing
+beam_size_5	vid2477	a monkey is walking
+beam_size_5	vid2478	a man is driving a car
+beam_size_5	vid2479	two women are talking
+beam_size_5	vid2480	a person is peeling a toad
+beam_size_5	vid2481	a man is riding a motorcycle
+beam_size_5	vid2482	a man is riding a skateboard
+beam_size_5	vid2483	a man is driving a car
+beam_size_5	vid2484	a man is riding a bike
+beam_size_5	vid2485	a monkey is running
+beam_size_5	vid2486	a woman is swimming
+beam_size_5	vid2487	a panda is dancing
+beam_size_5	vid2488	a bird is eating
+beam_size_5	vid2489	two men are fighting
+beam_size_5	vid2490	a man is running
+beam_size_5	vid2491	a man is walking
+beam_size_5	vid2492	a cat is playing
+beam_size_5	vid2493	a man is playing a guitar
+beam_size_5	vid2494	a man is cutting a piece of bread
+beam_size_5	vid2495	a cat is playing
+beam_size_5	vid2496	a man is riding a bike
+beam_size_5	vid2497	a man cooking his kichen
+beam_size_5	vid2498	a woman is laying on the bed
+beam_size_5	vid2499	a man is running
+beam_size_5	vid2500	a man is riding a bike
+beam_size_5	vid2501	a woman is riding a horse
+beam_size_5	vid2502	two men are fighting
+beam_size_5	vid2503	a group of people are walking
+beam_size_5	vid2504	a man is playing a piano
+beam_size_5	vid2505	a panda is laying on the ground
+beam_size_5	vid2506	a man is drinking water
+beam_size_5	vid2507	a woman is dancing
+beam_size_5	vid2508	a frog is eating
+beam_size_5	vid2509	a man is jumping
+beam_size_5	vid2510	a woman is dancing
+beam_size_5	vid2511	a man is slicing a carrot
+beam_size_5	vid2512	a man is riding a motorcycle
+beam_size_5	vid2513	a man is shooting a gun
+beam_size_5	vid2514	a man is walking on the floor
+beam_size_5	vid2515	two zebras are fighting
+beam_size_5	vid2516	a man is running
+beam_size_5	vid2517	a man is running
+beam_size_5	vid2518	a plane is flying
+beam_size_5	vid2519	a man is slicing a potato
+beam_size_5	vid2520	a woman is exercising
+beam_size_5	vid2521	a woman is riding a horse
+beam_size_5	vid2522	a man is breaking a stick
+beam_size_5	vid2523	a shark is swimming
+beam_size_5	vid2524	a dog is playing
+beam_size_5	vid2525	a man is slicing a potato
+beam_size_5	vid2526	a woman is picking a piece of butter
+beam_size_5	vid2527	a woman is plucking her eyebrows
+beam_size_5	vid2528	a man is playing a guitar
+beam_size_5	vid2529	a man is playing a guitar
+beam_size_5	vid2530	a man is riding a bike
+beam_size_5	vid2531	a man is running
+beam_size_5	vid2532	a man is playing a guitar
+beam_size_5	vid2533	a cat is playing with a toy
+beam_size_5	vid2534	a man is slicing a potato
+beam_size_5	vid2535	a boy is walking on a chair
+beam_size_5	vid2536	a shark is swimming
+beam_size_5	vid2537	a woman is riding a motorcycle
+beam_size_5	vid2538	a man is running
+beam_size_5	vid2539	a woman is exercising
+beam_size_5	vid2540	a woman is riding a horse
+beam_size_5	vid2541	a man is running
+beam_size_5	vid2542	a man is breaking pots
+beam_size_5	vid2543	a monkey is running
+beam_size_5	vid2544	a man is walking
+beam_size_5	vid2545	a man is slicing a cucumber
+beam_size_5	vid2546	a man is slicing a potato
+beam_size_5	vid2547	two women are dancing
+beam_size_5	vid2548	a man is skating
+beam_size_5	vid2549	a woman is exercising
+beam_size_5	vid2550	a girl is picking up a watering can
+beam_size_5	vid2551	two men are kissing
+beam_size_5	vid2552	a turtle is walking
+beam_size_5	vid2553	a man is singing
+beam_size_5	vid2554	a man is erasing a chalkboard
+beam_size_5	vid2555	a man is cutting a stick
+beam_size_5	vid2556	a man is running
+beam_size_5	vid2557	a man is running
+beam_size_5	vid2558	a man is running
+beam_size_5	vid2559	a man is playing a guitar
+beam_size_5	vid2560	a man is slicing a carrot
+beam_size_5	vid2561	a woman is mixing ingrediants
+beam_size_5	vid2562	a man is lifting weights
+beam_size_5	vid2563	a man is running
+beam_size_5	vid2564	a man is dancing
+beam_size_5	vid2565	a man is dancing
+beam_size_5	vid2566	a man is riding a bicycle
+beam_size_5	vid2567	a man is breaking pots
+beam_size_5	vid2568	a man is running
+beam_size_5	vid2569	a man is breaking pots
+beam_size_5	vid2570	a man is running
+beam_size_5	vid2571	a man is walking
+beam_size_5	vid2572	a man is walking
+beam_size_5	vid2573	a man is dancing
+beam_size_5	vid2574	a man is tying his cloths
+beam_size_5	vid2575	a man is running
+beam_size_5	vid2576	a man is dancing
+beam_size_5	vid2577	a person is playing with a toy
+beam_size_5	vid2578	a person is slicing a carrot
+beam_size_5	vid2579	a cat is playing
+beam_size_5	vid2580	a man is sharpening a knife
+beam_size_5	vid2581	a cat is playing
+beam_size_5	vid2582	a man cooking his kichen
+beam_size_5	vid2583	a woman is dancing
+beam_size_5	vid2584	a man is riding a horse
+beam_size_5	vid2585	a cat is playing
+beam_size_5	vid2586	a man is riding a motorcycle
+beam_size_5	vid2587	a man cooking his kichen
+beam_size_5	vid2588	a woman is riding a horse
+beam_size_5	vid2589	a man is doing push ups
+beam_size_5	vid2590	a man is riding a skateboard
+beam_size_5	vid2591	a man is driving a car
+beam_size_5	vid2592	a man is climbing a wall
+beam_size_5	vid2593	a man is playing with a dog
+beam_size_5	vid2594	a man is talking
+beam_size_5	vid2595	a cat is playing
+beam_size_5	vid2596	a man is breaking bricks
+beam_size_5	vid2597	a man is dancing
+beam_size_5	vid2598	a man cooking his kichen
+beam_size_5	vid2599	a man is slicing a carrot
+beam_size_5	vid2600	a man is slicing a carrot
+beam_size_5	vid2601	a man is slicing bread
+beam_size_5	vid2602	a dog is playing with a dog
+beam_size_5	vid2603	a man is making a pizza
+beam_size_5	vid2604	a man is playing a flute
+beam_size_5	vid2605	men are playing soccer
+beam_size_5	vid2606	the person is cutting the something
+beam_size_5	vid2607	people are dancing
+beam_size_5	vid2608	a cat is playing
+beam_size_5	vid2609	a person is holding a toad
+beam_size_5	vid2610	a man is playing a piano
+beam_size_5	vid2611	a man is riding a bike
+beam_size_5	vid2612	a man cooking his kichen
+beam_size_5	vid2613	a man cooking his kichen
+beam_size_5	vid2614	a man is making a dish
+beam_size_5	vid2615	two men are swimming
+beam_size_5	vid2616	a woman is dancing
+beam_size_5	vid2617	a man is riding a bike
+beam_size_5	vid2618	a man is riding a bike
+beam_size_5	vid2619	a plane is flying
+beam_size_5	vid2620	a man is riding a horse
+beam_size_5	vid2621	a man is riding a horse
+beam_size_5	vid2622	a man is cooking
+beam_size_5	vid2623	a woman is dancing
+beam_size_5	vid2624	a baby is eating
+beam_size_5	vid2625	a man is talking
+beam_size_5	vid2626	a man is dancing
+beam_size_5	vid2627	a woman is dancing
+beam_size_5	vid2628	a woman is riding a horse
+beam_size_5	vid2629	a man is using a camera
+beam_size_5	vid2630	a group of people are dancing
+beam_size_5	vid2631	a man is dancing
+beam_size_5	vid2632	a panda is playing
+beam_size_5	vid2633	a man is kicking a basketball
+beam_size_5	vid2634	a woman is picking tomatoes
+beam_size_5	vid2635	a cat is playing with a ball
+beam_size_5	vid2636	a man is riding a motorcycle
+beam_size_5	vid2637	a man is dancing
+beam_size_5	vid2638	a man and woman are walking
+beam_size_5	vid2639	a man is riding a bike
+beam_size_5	vid2640	a man is walking
+beam_size_5	vid2641	a man is playing with a dog
+beam_size_5	vid2642	a man is riding a motorcycle
+beam_size_5	vid2643	a cat is playing
+beam_size_5	vid2644	a man is tying his shoes
+beam_size_5	vid2645	a man is walking
+beam_size_5	vid2646	a man is sharpening a knife
+beam_size_5	vid2647	a woman is brushing her fingers
+beam_size_5	vid2648	a group of people are dancing
+beam_size_5	vid2649	a woman is dancing
+beam_size_5	vid2650	a woman is applying lipstick
+beam_size_5	vid2651	a cat is playing
+beam_size_5	vid2652	a man is dancing
+beam_size_5	vid2653	a man is running
+beam_size_5	vid2654	two men are running
+beam_size_5	vid2655	a man is riding a motorcycle
+beam_size_5	vid2656	a man is reading a newspaper
+beam_size_5	vid2657	a woman is dancing
+beam_size_5	vid2658	a man is running
+beam_size_5	vid2659	a man is riding a skateboard
+beam_size_5	vid2660	a man is dancing
+beam_size_5	vid2661	a man is playing a guitar
+beam_size_5	vid2662	a man is slicing a potato
+beam_size_5	vid2663	a man is playing a guitar
+beam_size_5	vid2664	a dog is playing
+beam_size_5	vid2665	a man is driving a car
+beam_size_5	vid2666	a man is driving a car
+beam_size_5	vid2667	a polar bear is sliding on the snow
+beam_size_5	vid2668	a person is mixing ingrediants
+beam_size_5	vid2669	a dog is running
+beam_size_5	vid2670	a man is talking
+beam_size_5	vid2671	a man is opening a door
+beam_size_5	vid2672	two men are fighting
+beam_size_5	vid2673	a man opens a door
+beam_size_5	vid2674	a man is slicing a carrot
+beam_size_5	vid2675	a monkey is running
+beam_size_5	vid2676	a polar bear is walking
+beam_size_5	vid2677	a polar bear is walking
+beam_size_5	vid2678	a man is playing a guitar
+beam_size_5	vid2679	a dog is catching a fish
+beam_size_5	vid2680	a cat is jumping over a wall
+beam_size_5	vid2681	a man is shooting a gun
+beam_size_5	vid2682	a man is slicing bread
+beam_size_5	vid2683	a man is making pizza
+beam_size_5	vid2684	a man cooking his kichen
+beam_size_5	vid2685	a man is sitting on the floor
+beam_size_5	vid2686	a man is driving a car
+beam_size_5	vid2687	a man is lifting weights
+beam_size_5	vid2688	a man is playing with a dog
+beam_size_5	vid2689	a man is cutting a tree
+beam_size_5	vid2690	a man cooking his kichen
+beam_size_5	vid2691	a group of people are walking
+beam_size_5	vid2692	a cat is eating
+beam_size_5	vid2693	a man is playing a guitar
+beam_size_5	vid2694	a man is singing
+beam_size_5	vid2695	a man is riding a horse
+beam_size_5	vid2696	a man is playing a guitar
+beam_size_5	vid2697	a man is driving a car
+beam_size_5	vid2698	a man is running
+beam_size_5	vid2699	a dog is running
+beam_size_5	vid2700	a dog is swimming
+beam_size_5	vid2701	a man is holding a microwave
+beam_size_5	vid2702	a man is shooting a gun
+beam_size_5	vid2703	a cat is playing
+beam_size_5	vid2704	a man is running
+beam_size_5	vid2705	a woman is dancing
+beam_size_5	vid2706	a group of people are walking
+beam_size_5	vid2707	a man is lifting weights
+beam_size_5	vid2708	a man is smoking
+beam_size_5	vid2709	a person is playing with a rabbit
+beam_size_5	vid2710	a man is drinking water
+beam_size_5	vid2711	a woman is dancing
+beam_size_5	vid2712	a man is walking
+beam_size_5	vid2713	a man is dancing
+beam_size_5	vid2714	a man cooking his kichen
+beam_size_5	vid2715	a man cooking his kichen
+beam_size_5	vid2716	a man cooking his kichen
+beam_size_5	vid2717	a man is pouring water into a pan
+beam_size_5	vid2718	a man cooking his kichen
+beam_size_5	vid2719	a man is pouring water into a pan
+beam_size_5	vid2720	a man cooking his kichen
+beam_size_5	vid2721	a man is cooking
+beam_size_5	vid2722	two women are dancing
+beam_size_5	vid2723	a woman is dancing
+beam_size_5	vid2724	a woman is washing her hands
+beam_size_5	vid2725	a woman is dancing
+beam_size_5	vid2726	a man is running
+beam_size_5	vid2727	two men are fighting
+beam_size_5	vid2728	a person is playing a violin
+beam_size_5	vid2729	a baby is crying
+beam_size_5	vid2730	a dog is playing with a ball
+beam_size_5	vid2731	a man cooking his kichen
+beam_size_5	vid2732	a slow loris is biting a mans hand
+beam_size_5	vid2733	a man is walking
+beam_size_5	vid2734	a cat is playing with a toy
+beam_size_5	vid2735	a man is playing a guitar
+beam_size_5	vid2736	a man is skating
+beam_size_5	vid2737	a dog is running
+beam_size_5	vid2738	a man is dancing
+beam_size_5	vid2739	a cat is playing
+beam_size_5	vid2740	a man is playing a guitar
+beam_size_5	vid2741	a man is riding a horse
+beam_size_5	vid2742	a man is playing a keyboard
+beam_size_5	vid2743	two women are fighting
+beam_size_5	vid2744	a man is running
+beam_size_5	vid2745	a woman is cooking meat
+beam_size_5	vid2746	a dog is looking at a bug
+beam_size_5	vid2747	a cat is licking a lollipop
+beam_size_5	vid2748	a man is crying
+beam_size_5	vid2749	a woman is applying lipstick
+beam_size_5	vid2750	a man is slicing a potato
+beam_size_5	vid2751	a man is running
+beam_size_5	vid2752	a man is walking
+beam_size_5	vid2753	a boy is playing with a ball
+beam_size_5	vid2754	a monkey is running
+beam_size_5	vid2755	a man is driving a car
+beam_size_5	vid2756	a tiger is running
+beam_size_5	vid2757	a man is running
+beam_size_5	vid2758	a cat is walking
+beam_size_5	vid2759	a man is dancing
+beam_size_5	vid2760	a man is cutting a cucumber
+beam_size_5	vid2761	a man cooking his kichen
+beam_size_5	vid2762	a cat is playing
+beam_size_5	vid2763	a woman is putting on sunglasses
+beam_size_5	vid2764	a man is running
+beam_size_5	vid2765	a man is running
+beam_size_5	vid2766	a man is cutting a cake
+beam_size_5	vid2767	a man is walking
+beam_size_5	vid2768	a man is cooking
+beam_size_5	vid2769	a man is slicing a carrot
+beam_size_5	vid2770	a man is slicing a carrot
+beam_size_5	vid2771	a man is cutting a piece of paper
+beam_size_5	vid2772	a dog is playing
+beam_size_5	vid2773	a dog is playing
+beam_size_5	vid2774	a man is playing a piano
+beam_size_5	vid2775	a man is walking
+beam_size_5	vid2776	a bear is walking
+beam_size_5	vid2777	a man is slicing a potato
+beam_size_5	vid2778	a man is playing with a dog
+beam_size_5	vid2779	a man is playing a guitar
+beam_size_5	vid2780	two men are jogging on the beach
+beam_size_5	vid2781	a man is holding a sunflower
+beam_size_5	vid2782	a man cooking his kichen
+beam_size_5	vid2783	a boy is jumping
+beam_size_5	vid2784	a woman is washing a bowl
+beam_size_5	vid2785	a man cooking his kichen
+beam_size_5	vid2786	a group of people are walking
+beam_size_5	vid2787	a man is riding a skateboard
+beam_size_5	vid2788	a dog is running
+beam_size_5	vid2789	a woman is putting on makeup
+beam_size_5	vid2790	a man is opening a door
+beam_size_5	vid2791	a man is shooting a gun
+beam_size_5	vid2792	men are playing football
+beam_size_5	vid2793	two men are fighting
+beam_size_5	vid2794	a man is running
+beam_size_5	vid2795	a man is running
+beam_size_5	vid2796	a man is running
+beam_size_5	vid2797	a man jumps off a roof
+beam_size_5	vid2798	a man cooking his kichen
+beam_size_5	vid2799	a man is kneading dough
+beam_size_5	vid2800	a man is playing a guitar
+beam_size_5	vid2801	a baby is playing with a ball
+beam_size_5	vid2802	a dog is playing
+beam_size_5	vid2803	a man is riding a bike
+beam_size_5	vid2804	a dolphin jumps into the water
+beam_size_5	vid2805	a band is performing on stage
+beam_size_5	vid2806	two men are fighting
+beam_size_5	vid2807	a man is shooting a gun
+beam_size_5	vid2808	a man is cutting a potato
+beam_size_5	vid2809	a man cooking his kichen
+beam_size_5	vid2810	a man is slicing a potato
+beam_size_5	vid2811	two men are playing chess
+beam_size_5	vid2812	a man is slicing an onion
+beam_size_5	vid2813	a baby is playing
+beam_size_5	vid2814	a man is singing
+beam_size_5	vid2815	a man is eating
+beam_size_5	vid2816	a man is running
+beam_size_5	vid2817	a man is driving a car
+beam_size_5	vid2818	a woman is cutting meat
+beam_size_5	vid2819	a woman is peeling shrimp
+beam_size_5	vid2820	a woman is cutting meat
+beam_size_5	vid2821	a person is cutting a vegetable
+beam_size_5	vid2822	a woman is cutting meat
+beam_size_5	vid2823	a man is slicing a carrot
+beam_size_5	vid2824	a man is cutting meat
+beam_size_5	vid2825	a person is mixing flour
+beam_size_5	vid2826	a man cooking his kichen
+beam_size_5	vid2827	a man cooking his kichen
+beam_size_5	vid2828	a man cooking his kichen
+beam_size_5	vid2829	a man is slicing a carrot
+beam_size_5	vid2830	a man cooking his kichen
+beam_size_5	vid2831	a man is slicing a carrot
+beam_size_5	vid2832	a man cooking his kichen
+beam_size_5	vid2833	a man is slicing a carrot
+beam_size_5	vid2834	a man is slicing a vegetable
+beam_size_5	vid2835	a woman is slicing a carrot
+beam_size_5	vid2836	a man cooking his kichen
+beam_size_5	vid2837	a person is cooking
+beam_size_5	vid2838	a man is slicing a potato
+beam_size_5	vid2839	a man is slicing a potato
+beam_size_5	vid2840	a man cooking his kichen
+beam_size_5	vid2841	a man is dancing
+beam_size_5	vid2842	a man is playing a guitar
+beam_size_5	vid2843	a woman is slicing a cucumber
+beam_size_5	vid2844	a woman is slicing meat
+beam_size_5	vid2845	a woman is slicing a piece of meat
+beam_size_5	vid2846	a woman is breading meat
+beam_size_5	vid2847	a woman is cutting meat
+beam_size_5	vid2848	a man cooking his kichen
+beam_size_5	vid2849	a man is riding a motorcycle
+beam_size_5	vid2850	a woman is pouring ingredients into a bowl
+beam_size_5	vid2851	a man is pouring water into a container
+beam_size_5	vid2852	a man is eating
+beam_size_5	vid2853	a man is eating
+beam_size_5	vid2854	a man is breaking a flaming board
+beam_size_5	vid2855	a man is tying a sock
+beam_size_5	vid2856	a man is playing a guitar
+beam_size_5	vid2857	a dog is eating
+beam_size_5	vid2858	a woman is picking up a watering can
+beam_size_5	vid2859	a man is running
+beam_size_5	vid2860	a woman is laying on a bed
+beam_size_5	vid2861	a woman is dancing
+beam_size_5	vid2862	a man is running
+beam_size_5	vid2863	a man is running
+beam_size_5	vid2864	two men are fighting
+beam_size_5	vid2865	a cat is playing
+beam_size_5	vid2866	a man is riding a skateboard
+beam_size_5	vid2867	a man is playing a trumpet
+beam_size_5	vid2868	a man is playing a guitar
+beam_size_5	vid2869	a man is dancing
+beam_size_5	vid2870	a man cooking his kichen
+beam_size_5	vid2871	a man is running
+beam_size_5	vid2872	a cat jumps into a wall
+beam_size_5	vid2873	a man is talking
+beam_size_5	vid2874	a man is pouring water into a container
+beam_size_5	vid2875	a man is putting butter into a bag
+beam_size_5	vid2876	a man is pouring water into a container
+beam_size_5	vid2877	a man is shooting a gun
+beam_size_5	vid2878	a man is running
+beam_size_5	vid2879	two women are dancing
+beam_size_5	vid2880	a man is walking
+beam_size_5	vid2881	a boy is riding a skateboard
+beam_size_5	vid2882	a woman is cutting a sock
+beam_size_5	vid2883	a man is riding a bike
+beam_size_5	vid2884	a man is playing a guitar
+beam_size_5	vid2885	a man is riding a horse
+beam_size_5	vid2886	a man is cooking
+beam_size_5	vid2887	a man is slicing a potato
+beam_size_5	vid2888	a man is slicing a potato
+beam_size_5	vid2889	a man is slicing a carrot
+beam_size_5	vid2890	a woman is slicing a carrot
+beam_size_5	vid2891	a man is slicing a potato
+beam_size_5	vid2892	a man is slicing a carrot
+beam_size_5	vid2893	a man is slicing a potato
+beam_size_5	vid2894	a man is slicing an onion
+beam_size_5	vid2895	a man is slicing a potato
+beam_size_5	vid2896	a man is lifting weights
+beam_size_5	vid2897	a woman is holding a kangaroo
+beam_size_5	vid2898	a woman is pouring water into a bowl
+beam_size_5	vid2899	a soccer player scores a goal
+beam_size_5	vid2900	a dog is playing
+beam_size_5	vid2901	a man is peeling a potato
+beam_size_5	vid2902	a man is slicing a potato
+beam_size_5	vid2903	a dog is playing with a ball
+beam_size_5	vid2904	two men are fighting
+beam_size_5	vid2905	a man is walking
+beam_size_5	vid2906	a man is playing a guitar
+beam_size_5	vid2907	a woman is riding a horse
+beam_size_5	vid2908	a man is cooking
+beam_size_5	vid2909	the person is cutting the something
+beam_size_5	vid2910	a tiger is walking
+beam_size_5	vid2911	two women are dancing
+beam_size_5	vid2912	a man is running
+beam_size_5	vid2913	a man is riding a motorcycle
+beam_size_5	vid2914	a man is riding a motorcycle
+beam_size_5	vid2915	a man is slicing a carrot
+beam_size_5	vid2916	a man is running
+beam_size_5	vid2917	a man is drinking water
+beam_size_5	vid2918	a man is cutting a piece of paper
+beam_size_5	vid2919	a man is playing a violin
+beam_size_5	vid2920	a man is playing a guitar
+beam_size_5	vid2921	a woman is dancing
+beam_size_5	vid2922	a woman is dancing
+beam_size_5	vid2923	a man is cutting a vegetable
+beam_size_5	vid2924	a man is riding a bike
+beam_size_5	vid2925	a man cooking his kichen
+beam_size_5	vid2926	a man is holding a fish
+beam_size_5	vid2927	a woman is holding a baby kitten
+beam_size_5	vid2928	a man is singing
+beam_size_5	vid2929	a dog is walking
+beam_size_5	vid2930	a man is playing a trumpet
+beam_size_5	vid2931	a man is dancing
+beam_size_5	vid2932	a man is dancing
+beam_size_5	vid2933	a cat is playing
+beam_size_5	vid2934	a kitten is playing with a toy
+beam_size_5	vid2935	a cat is playing
+beam_size_5	vid2936	a man cooking his kichen
+beam_size_5	vid2937	a man is slicing bread
+beam_size_5	vid2938	a man is cutting meat
+beam_size_5	vid2939	a man is cutting a piece of bread
+beam_size_5	vid2940	two men are fighting
+beam_size_5	vid2941	a man is running
+beam_size_5	vid2942	a man is skateboarding
+beam_size_5	vid2943	a man is dancing
+beam_size_5	vid2944	a woman is sitting on bed
+beam_size_5	vid2945	a man is slicing a potato
+beam_size_5	vid2946	a loris is eating
+beam_size_5	vid2947	a man is cutting a sock
+beam_size_5	vid2948	a man is riding a bicycle
+beam_size_5	vid2949	two men are playing football
+beam_size_5	vid2950	a woman is brushing her hair
+beam_size_5	vid2951	two women are dancing
+beam_size_5	vid2952	a woman is riding a motorcycle
+beam_size_5	vid2953	a man is cutting a sock
+beam_size_5	vid2954	a man cooking his kichen
+beam_size_5	vid2955	a man is slicing a potato
+beam_size_5	vid2956	a woman is slicing a carrot
+beam_size_5	vid2957	a man cooking his kichen
+beam_size_5	vid2958	a dog is running
+beam_size_5	vid2959	a man is riding a horse
+beam_size_5	vid2960	a man is running
+beam_size_5	vid2961	a man is lifting a log
+beam_size_5	vid2962	a man is eating food
+beam_size_5	vid2963	a man is riding a bike
+beam_size_5	vid2964	a man is riding a bike
+beam_size_5	vid2965	a woman is dancing
+beam_size_5	vid2966	a man is slicing an onion
+beam_size_5	vid2967	a man is slicing a potato
+beam_size_5	vid2968	a woman is dancing
+beam_size_5	vid2969	a man is riding a motorcycle
+beam_size_5	vid2970	a man is playing a guitar
+beam_size_5	vid2971	a woman is applying makeup
+beam_size_5	vid2972	a man is dancing
+beam_size_5	vid2973	a man is riding a bike
+beam_size_5	vid2974	a woman is putting on sunglasses
+beam_size_5	vid2975	people are dancing
+beam_size_5	vid2976	a man cooking his kichen
+beam_size_5	vid2977	a man cooking his kichen
+beam_size_5	vid2978	a man cooking his kichen
+beam_size_5	vid2979	a woman is dancing
+beam_size_5	vid2980	a man is running
+beam_size_5	vid2981	a man is riding a horse
+beam_size_5	vid2982	a dog is riding a skateboard
+beam_size_5	vid2983	a man is skiing
+beam_size_5	vid2984	a man is singing
+beam_size_5	vid2985	a man is cutting a vegetable
+beam_size_5	vid2986	a cat is playing
+beam_size_5	vid2987	a man is driving a car
+beam_size_5	vid2988	a woman is plucking her eyebrows
+beam_size_5	vid2989	a woman is feeding a kangaroo
+beam_size_5	vid2990	a dog is running
+beam_size_5	vid2991	a man is riding a horse
+beam_size_5	vid2992	a lemur is sitting on the ground
+beam_size_5	vid2993	a dog is playing
+beam_size_5	vid2994	a man is playing with a dog
+beam_size_5	vid2995	a man is riding a bike
+beam_size_5	vid2996	a dog is playing with a ball
+beam_size_5	vid2997	a man is slicing meat
+beam_size_5	vid2998	a man is singing
+beam_size_5	vid2999	a man is running
+beam_size_5	vid3000	two women are dancing
+beam_size_5	vid3001	a man is riding a skateboard
+beam_size_5	vid3002	a man is playing with a dog
+beam_size_5	vid3003	a man is dancing
+beam_size_5	vid3004	a man is stirring a car
+beam_size_5	vid3005	a man is peeling a potato
+beam_size_5	vid3006	a man is peeling a potato
+beam_size_5	vid3007	a man is slicing a potato
+beam_size_5	vid3008	a boy is playing
+beam_size_5	vid3009	a man is playing a piano
+beam_size_5	vid3010	a man is pouring sauce into a bowl
+beam_size_5	vid3011	a man is running
+beam_size_5	vid3012	a man is riding a skateboard
+beam_size_5	vid3013	a man is playing a flute
+beam_size_5	vid3014	a cat is playing
+beam_size_5	vid3015	two women are dancing
+beam_size_5	vid3016	a man is crying
+beam_size_5	vid3017	a man is playing with a man
+beam_size_5	vid3018	a panda is cleaning itself
+beam_size_5	vid3019	a man is running
+beam_size_5	vid3020	a woman is brushing her hair
+beam_size_5	vid3021	a man is talking
+beam_size_5	vid3022	a man is smoking
+beam_size_5	vid3023	a baby is laughing
+beam_size_5	vid3024	a cat is drinking milk
+beam_size_5	vid3025	a man is smoking
+beam_size_5	vid3026	a man is dancing
+beam_size_5	vid3027	a man is skateboarding
+beam_size_5	vid3028	a dog is running
+beam_size_5	vid3029	a man is skating
+beam_size_5	vid3030	a man is stirring a bowl of soup
+beam_size_5	vid3031	two men are fighting
+beam_size_5	vid3032	a little girl is dancing
+beam_size_5	vid3033	a man is running
+beam_size_5	vid3034	two men are fighting
+beam_size_5	vid3035	a man cooking his kichen
+beam_size_5	vid3036	a dog is playing
+beam_size_5	vid3037	a dog is playing with a dog
+beam_size_5	vid3038	a cat is playing with a toy
+beam_size_5	vid3039	a man cooking his kichen
+beam_size_5	vid3040	a person is mixing ingredients in a bowl
+beam_size_5	vid3041	a woman is cutting meat
+beam_size_5	vid3042	a man cooking his kichen
+beam_size_5	vid3043	a woman is peeling a carrot
+beam_size_5	vid3044	a man is cutting a vegetable
+beam_size_5	vid3045	a woman is slicing a carrot
+beam_size_5	vid3046	a woman is slicing a cucumber
+beam_size_5	vid3047	a man is running
+beam_size_5	vid3048	a man is cutting a rope
+beam_size_5	vid3049	a woman is putting her hair
+beam_size_5	vid3050	a dog is swimming
+beam_size_5	vid3051	a man is driving a car
+beam_size_5	vid3052	a man is lifting a car
+beam_size_5	vid3053	a monkey is pulling a dead deer
+beam_size_5	vid3054	a man is eating
+beam_size_5	vid3055	a slow loris is biting a persons finger
+beam_size_5	vid3056	a woman is applying lipstick
+beam_size_5	vid3057	a man is cutting flowers
+beam_size_5	vid3058	a panda is walking
+beam_size_5	vid3059	a boy is playing with a rope
+beam_size_5	vid3060	a man is cutting a vegetable
+beam_size_5	vid3061	a man is running
+beam_size_5	vid3062	a man cooking his kichen
+beam_size_5	vid3063	a man is running
+beam_size_5	vid3064	a man is dancing
+beam_size_5	vid3065	a man is running
+beam_size_5	vid3066	a man is doing exercise
+beam_size_5	vid3067	a man is running
+beam_size_5	vid3068	a man is shooting
+beam_size_5	vid3069	a man is dancing
+beam_size_5	vid3070	a man is doing exercise
+beam_size_5	vid3071	a man is riding a bike
+beam_size_5	vid3072	people are dancing
+beam_size_5	vid3073	a man is doing karate
+beam_size_5	vid3074	a man is playing a guitar
+beam_size_5	vid3075	a man is running
+beam_size_5	vid3076	two women are eating
+beam_size_5	vid3077	a man is dancing
+beam_size_5	vid3078	a man is running
+beam_size_5	vid3079	two men are playing chess
+beam_size_5	vid3080	a woman is dancing
+beam_size_5	vid3081	a man is riding a bike
+beam_size_5	vid3082	a man is cutting meat
+beam_size_5	vid3083	a man is cutting some bread
+beam_size_5	vid3084	a man is playing a piano
+beam_size_5	vid3085	a man is running
+beam_size_5	vid3086	a man is slicing a potato
+beam_size_5	vid3087	a woman is exercising
+beam_size_5	vid3088	a woman is playing with a dog
+beam_size_5	vid3089	two men are talking
+beam_size_5	vid3090	people are fighting
+beam_size_5	vid3091	a man is peeling a potato
+beam_size_5	vid3092	a man is slicing a potato
+beam_size_5	vid3093	a man is driving a car
+beam_size_5	vid3094	a man is dancing
+beam_size_5	vid3095	a man is talking on the phone
+beam_size_5	vid3096	a man is cutting a sock
+beam_size_5	vid3097	a man is opening a door
+beam_size_5	vid3098	a man is running
+beam_size_5	vid3099	a woman is dancing
+beam_size_5	vid3100	a monkey is running
+beam_size_5	vid3101	a man is riding a bike
+beam_size_5	vid3102	a car is running
+beam_size_5	vid3103	a man is breaking a stick
+beam_size_5	vid3104	people are dancing
+beam_size_5	vid3105	a man is slicing a carrot
+beam_size_5	vid3106	a man is playing with a dog
+beam_size_5	vid3107	a man is lifting weights
+beam_size_5	vid3108	a man is singing
+beam_size_5	vid3109	a man is singing
+beam_size_5	vid3110	a man is pouring water into a bowl
+beam_size_5	vid3111	a monkey is running
+beam_size_5	vid3112	a woman is picking up a watering can
+beam_size_5	vid3113	a cat is playing
+beam_size_5	vid3114	a man is walking
+beam_size_5	vid3115	a man is slicing a potato
+beam_size_5	vid3116	a man is riding a horse
+beam_size_5	vid3117	a man is dancing
+beam_size_5	vid3118	a cat is playing
+beam_size_5	vid3119	a man is cooking
+beam_size_5	vid3120	a monkey is pulling a dogs tail
+beam_size_5	vid3121	a woman is petting a lemur
+beam_size_5	vid3122	a man is dancing
+beam_size_5	vid3123	a monkey is catching a fish
+beam_size_5	vid3124	a man is lifting weights
+beam_size_5	vid3125	a woman is cutting a sock
+beam_size_5	vid3126	a man is cooking
+beam_size_5	vid3127	a man is slicing a carrot
+beam_size_5	vid3128	a man is playing a guitar
+beam_size_5	vid3129	a man is eating food
+beam_size_5	vid3130	a man is playing a guitar
+beam_size_5	vid3131	two men are fighting
+beam_size_5	vid3132	a man is riding a bike
+beam_size_5	vid3133	a cat is playing
+beam_size_5	vid3134	a man is pouring water into a bowl
+beam_size_5	vid3135	a woman is exercising
+beam_size_5	vid3136	a man is playing a guitar
+beam_size_5	vid3137	a man is cleaning the floor
+beam_size_5	vid3138	a girl is dancing
+beam_size_5	vid3139	a cat is playing
+beam_size_5	vid3140	a man is running
+beam_size_5	vid3141	a woman is riding a horse
+beam_size_5	vid3142	a man cooking his kichen
+beam_size_5	vid3143	a man is holding a gun
+beam_size_5	vid3144	a man is climbing a rope
+beam_size_5	vid3145	a man is shooting a gun
+beam_size_5	vid3146	a man is dancing
+beam_size_5	vid3147	a monkey is walking
+beam_size_5	vid3148	a man is driving a car
+beam_size_5	vid3149	two women are talking
+beam_size_5	vid3150	a person is peeling a toad
+beam_size_5	vid3151	a man is riding a motorcycle
+beam_size_5	vid3152	a man is riding a skateboard
+beam_size_5	vid3153	a man is driving a car
+beam_size_5	vid3154	a man is riding a bike
+beam_size_5	vid3155	a monkey is running
+beam_size_5	vid3156	a woman is swimming
+beam_size_5	vid3157	a panda is dancing
+beam_size_5	vid3158	a bird is eating
+beam_size_5	vid3159	two men are fighting
+beam_size_5	vid3160	a man is running
+beam_size_5	vid3161	a man is walking
+beam_size_5	vid3162	a cat is playing
+beam_size_5	vid3163	a man is playing a guitar
+beam_size_5	vid3164	a man is cutting a piece of bread
+beam_size_5	vid3165	a cat is playing
+beam_size_5	vid3166	a man is riding a bike
+beam_size_5	vid3167	a man cooking his kichen
+beam_size_5	vid3168	a woman is laying on the bed
+beam_size_5	vid3169	a man is running
+beam_size_5	vid3170	a man is riding a bike
+beam_size_5	vid3171	a woman is riding a horse
+beam_size_5	vid3172	two men are fighting
+beam_size_5	vid3173	a group of people are walking
+beam_size_5	vid3174	a man is playing a piano
+beam_size_5	vid3175	a panda is laying on the ground
+beam_size_5	vid3176	a man is drinking water
+beam_size_5	vid3177	a woman is dancing
+beam_size_5	vid3178	a frog is eating
+beam_size_5	vid3179	a man is jumping
+beam_size_5	vid3180	a woman is dancing
+beam_size_5	vid3181	a man is slicing a carrot
+beam_size_5	vid3182	a man is riding a motorcycle
+beam_size_5	vid3183	a man is shooting a gun
+beam_size_5	vid3184	a man is walking on the floor
+beam_size_5	vid3185	two zebras are fighting
+beam_size_5	vid3186	a man is running
+beam_size_5	vid3187	a man is running
+beam_size_5	vid3188	a plane is flying
+beam_size_5	vid3189	a man is slicing a potato
+beam_size_5	vid3190	a woman is exercising
+beam_size_5	vid3191	a woman is riding a horse
+beam_size_5	vid3192	a man is breaking a stick
+beam_size_5	vid3193	a shark is swimming
+beam_size_5	vid3194	a dog is playing
+beam_size_5	vid3195	a man is slicing a potato
+beam_size_5	vid3196	a woman is picking a piece of butter
+beam_size_5	vid3197	a woman is plucking her eyebrows
+beam_size_5	vid3198	a man is playing a guitar
+beam_size_5	vid3199	a man is playing a guitar
+beam_size_5	vid3200	a man is riding a bike
+beam_size_5	vid3201	a man is running
+beam_size_5	vid3202	a man is playing a guitar
+beam_size_5	vid3203	a cat is playing with a toy
+beam_size_5	vid3204	a man is slicing a potato
+beam_size_5	vid3205	a boy is walking on a chair
+beam_size_5	vid3206	a shark is swimming
+beam_size_5	vid3207	a woman is riding a motorcycle
+beam_size_5	vid3208	a man is running
+beam_size_5	vid3209	a woman is exercising
+beam_size_5	vid3210	a woman is riding a horse
+beam_size_5	vid3211	a man is running
+beam_size_5	vid3212	a man is breaking pots
+beam_size_5	vid3213	a monkey is running
+beam_size_5	vid3214	a man is walking
+beam_size_5	vid3215	a man is slicing a cucumber
+beam_size_5	vid3216	a man is slicing a potato
+beam_size_5	vid3217	two women are dancing
+beam_size_5	vid3218	a man is skating
+beam_size_5	vid3219	a woman is exercising
+beam_size_5	vid3220	a girl is picking up a watering can
+beam_size_5	vid3221	two men are kissing
+beam_size_5	vid3222	a turtle is walking
+beam_size_5	vid3223	a man is singing
+beam_size_5	vid3224	a man is erasing a chalkboard
+beam_size_5	vid3225	a man is cutting a stick
+beam_size_5	vid3226	a man is running
+beam_size_5	vid3227	a man is running
+beam_size_5	vid3228	a man is running
+beam_size_5	vid3229	a man is playing a guitar
+beam_size_5	vid3230	a man is slicing a carrot
+beam_size_5	vid3231	a woman is mixing ingrediants
+beam_size_5	vid3232	a man is lifting weights
+beam_size_5	vid3233	a man is running
+beam_size_5	vid3234	a man is dancing
+beam_size_5	vid3235	a man is dancing
+beam_size_5	vid3236	a man is riding a bicycle
+beam_size_5	vid3237	a man is breaking pots
+beam_size_5	vid3238	a man is running
+beam_size_5	vid3239	a man is breaking pots
+beam_size_5	vid3240	a man is running
+beam_size_5	vid3241	a man is walking
+beam_size_5	vid3242	a man is walking
+beam_size_5	vid3243	a man is dancing
+beam_size_5	vid3244	a man is tying his cloths
+beam_size_5	vid3245	a man is running
+beam_size_5	vid3246	a man is dancing
+beam_size_5	vid3247	a person is playing with a toy
+beam_size_5	vid3248	a person is slicing a carrot
+beam_size_5	vid3249	a cat is playing
+beam_size_5	vid3250	a man is sharpening a knife
+beam_size_5	vid3251	a cat is playing
+beam_size_5	vid3252	a man cooking his kichen
+beam_size_5	vid3253	a woman is dancing
+beam_size_5	vid3254	a man is riding a horse
+beam_size_5	vid3255	a cat is playing
+beam_size_5	vid3256	a man is riding a motorcycle
+beam_size_5	vid3257	a man cooking his kichen
+beam_size_5	vid3258	a woman is riding a horse
+beam_size_5	vid3259	a man is doing push ups
+beam_size_5	vid3260	a man is riding a skateboard
+beam_size_5	vid3261	a man is driving a car
+beam_size_5	vid3262	a man is climbing a wall
+beam_size_5	vid3263	a man is playing with a dog
+beam_size_5	vid3264	a man is talking
+beam_size_5	vid3265	a cat is playing
+beam_size_5	vid3266	a man is breaking bricks
+beam_size_5	vid3267	a man is dancing
+beam_size_5	vid3268	a man cooking his kichen
+beam_size_5	vid3269	a man is slicing a carrot
+beam_size_5	vid3270	a man is slicing a carrot
+beam_size_5	vid3271	a man is slicing bread
+beam_size_5	vid3272	a dog is playing with a dog
+beam_size_5	vid3273	a man is making a pizza
+beam_size_5	vid3274	a man is playing a flute
+beam_size_5	vid3275	men are playing soccer
+beam_size_5	vid3276	the person is cutting the something
+beam_size_5	vid3277	people are dancing
+beam_size_5	vid3278	a cat is playing
+beam_size_5	vid3279	a person is holding a toad
+beam_size_5	vid3280	a man is playing a piano
+beam_size_5	vid3281	a man is riding a bike
+beam_size_5	vid3282	a man cooking his kichen
+beam_size_5	vid3283	a man cooking his kichen
+beam_size_5	vid3284	a man is making a dish
+beam_size_5	vid3285	two men are swimming
+beam_size_5	vid3286	a woman is dancing
+beam_size_5	vid3287	a man is riding a bike
+beam_size_5	vid3288	a man is riding a bike
+beam_size_5	vid3289	a plane is flying
+beam_size_5	vid3290	a man is riding a horse
+beam_size_5	vid3291	a man is riding a horse
+beam_size_5	vid3292	a man is cooking
+beam_size_5	vid3293	a woman is dancing
+beam_size_5	vid3294	a baby is eating
+beam_size_5	vid3295	a man is talking
+beam_size_5	vid3296	a man is dancing
+beam_size_5	vid3297	a woman is dancing
+beam_size_5	vid3298	a woman is riding a horse
+beam_size_5	vid3299	a man is using a camera
+beam_size_5	vid3300	a group of people are dancing
+beam_size_5	vid3301	a man is dancing
+beam_size_5	vid3302	a panda is playing
+beam_size_5	vid3303	a man is kicking a basketball
+beam_size_5	vid3304	a woman is picking tomatoes
+beam_size_5	vid3305	a cat is playing with a ball
+beam_size_5	vid3306	a man is riding a motorcycle
+beam_size_5	vid3307	a man is dancing
+beam_size_5	vid3308	a man and woman are walking
+beam_size_5	vid3309	a man is riding a bike
+beam_size_5	vid3310	a man is walking
